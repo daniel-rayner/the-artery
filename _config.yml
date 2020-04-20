@@ -34,10 +34,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  daniel-rayner
 
 # Theme settings
-theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "default"
+remote_theme: "mmistakes/minimal-mistakes@4.19.1"
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 
 # Defaults
 defaults:
