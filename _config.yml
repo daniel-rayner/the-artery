@@ -18,21 +18,38 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+#Site settings
 title: The Artery
+subtitle: A Genetics Blog
+search: true
+logo: "/assets/images/logo.png"
+
 email: rayned1@mcmaster.ca
-description: >- # this means to ignore newlines until "baseurl:"
+description:
   Welcome to The Artery! Here I'll be posting random posts about genes and
   mutations related to cardiovascular diseases that I find interesting.
   Stay tuned! -Daniel
-baseurl: "/theartery" # the subpath of your site, e.g. /blog
+baseurl: "the-artery" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  daniel-rayner
 
-# Build settings
-theme: minima
+# Theme settings
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "default"
 plugins:
   - jekyll-feed
 
+# Defaults
+defaults:
+  -
+    scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      read_time: true
+      author_profile: true
+      related: true
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

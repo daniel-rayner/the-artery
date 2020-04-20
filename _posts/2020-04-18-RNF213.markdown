@@ -1,0 +1,56 @@
+---
+layout: single
+title: "<i>RNF213</i>: A susceptibility gene for Moyamoya disease"
+date: 2020-04-18 12:19:28
+author: Daniel R.
+permalink: "/RNF213-moyamoya-disease/"
+author_profile: true
+---
+### Moyamoya Disease:
+<div style="text-align: justify"><p> Moyamoya disease (MMD) is a rare chronic occlusive cerebrovascular disease characterized by the progressive stenosis of the arteries of Circle of Willis, namely the internal carotid arteries, the middle cerebral arteries, and/or the anterior cerebral arteries.<sup>1-3</sup> This occlusion is also accompanied by the formation of “smoke-like” abnormal blood vessels at the base of the brain.<sup>1,2</sup> The incidence of MMD disease is disproportional between ethnic populations, with incidence rates of 0.94/100,000 and 2.3/100,000 in Japan and South Korea, respectively.<sup>4,5</sup> Meanwhile, the incidence rate in North America was as low as 0.09/100,000, but has recently been on the rise in the United States.<sup>6</sup></p>
+
+<figure>
+  <img src="https://www.nejm.org/na101/home/literatum/publisher/mms/journals/content/nejm/2009/nejm_2009.360.issue-12/nejmra0804622/production/images/img_medium/nejmra0804622_f1.jpeg">
+    <figcaption>The angiographic features of Moyamoya disease. First described in 1957, the pathology’s characteristic abnormal blood vessels were likened to “something hazy, like a puff of cigarette smoke,” which, in Japanese, is known as “moyamoya”.<sup>1</sup></figcaption>
+</figure>
+
+<p>MMD presents with various clinical symptoms, including transient ischemic attacks, ischemic stroke, hemorrhagic stroke, epilepsy, cognitive dysfunction, and headache. Interestingly, the two major clinical signs—cerebral ischemia and cerebral hemorrhage—differ in frequency between pediatric and adult patients. The majority of pediatric patients present with progressive cerebral ischemia, whereas in patients aged >40, cerebral hemorrhage is more common.<sup>2</sup></p>
+
+<p>Genetic factors are strongly suspected to play a major role in the etiology of MMD due to previously observed strong ethnicity-related effects, high concordance rates of the disease in monozygotic twins, and a 10% proportion of cases being familial.<sup>7</sup></p></div>
+
+### Ring Finger Protein 213:
+
+<div style="text-align: justify"><p>Found at chromosome 17q25.3, <i>RNF213</i> encodes the large ring finger protein 213 with dual AAA+ ATPase and E3 ubiquitin ligase activities.<sup>8,9</sup> Previous <i>in vitro</i> and <i>in vivo</i> experiments have indicated that RNF213 is linked to vascular inflammation and angiogenesis, however, the exact contributions of RNF213 remain to be elucidated.<sup>10</sup></p>
+
+<p>Several <i>RNF213</i> variants have been identified as genetic susceptibility factors for MMD, with the most common being R4810K (c.14429G>A, rs112735431).<sup>9</sup> A case-control study conducted by Liu et al. demonstrated a strong association of R4810K with MMD in East Asian populations (251 cases, 707 controls) with an odds ratio of 111.8 (p=10<sup>-119</sup>).<sup>11</sup> Within East Asian countries, nearly 80% of MMD patients carry at least one mutated allele, compared to the <1.5% occurence in healthy controls of the same ethnicity.<sup>9</sup> Meanwhile, the prevalence of homozygotes is reported to be 7-8%, and has been shown to predict an earlier onset form of MMD with greater severity.<sup>9,12</sup> The penetrance rate of MMD in heterozygous carriers is thought to be as low as one per 150-300, whereas the penetrance rate of MMD in homozygotes has been calculated to be >78%.<sup>13,14</sup></p>
+
+<figure>
+  <img src="https://onlinelibrary.wiley.com/cms/asset/343ba307-4810-45bc-b299-9f96c7f27dea/ajmga37829-fig-0001-m.jpg">
+    <figcaption>The radiographic characteristics of two homozygous MMD patients. Cranial magnetic resonance angiograms of the first (A) patient and the second (D) patient with arrows indicating abnormal basal “moyamoya” vessels. Angiograms of the left pulmonary arteries in the first patient (B) and the second patient (C). Note the multiple pulmonary artery stenoses in both patients.<sup>12</sup> It is thought that RNF213 vasculopathy may be a systemic disease, with MMD as the central nervous system subtype, particularly in homozygous individuals.<sup>9</sup> </figcaption>
+</figure>
+
+<p>An <i>in vitro</i> study by Kobayashi et al. demonstrated a potential avenue in which R4810K variants increase one’s susceptibility to MMD. They discovered that RNF213 is likely to be a signalling mediator downstream of the IFN-β signalling pathway in endothelial cells (ECs), and its upregulation leads to lower angiogenic activity following IFN‐β exposure. However, upregulation of RNF213 WT was not sufficient to independently elicit antiangiogenic signals, whereas upregulation of RNF213 R4810K was sufficient. These findings were further confirmed by a murine hypoxia model, where hypoxic mice with overexpressed Rnf213 R4757K (an R4810K ortholog) in ECs demonstrated reduced angiogenesis. In contrast, none of the mice with upregulation of Rnf213 WT in ECs, knockout Rnf213, or upregulation of Rnf213 R4757K indicated inhibited angiogenesis. Ultimately, these results suggest that RNF213 R4810K can inhibit angiogenesis under exposure to IFNs or hypoxia, whereas RNF213 WT inhibits angiogenesis solely through the IFN‐signaling pathway. In other words, these data indicate that R4810K carriers may have reduced angiogenic capacities and may be more susceptible to insults of cerebral hypoxia.<sup>15</sup></p></div>
+
+### Treatment:
+
+<div style="text-align: justify"><p>As of now, there are no successful drug treatments for delaying or reversing the progression of MMD. Currently, the gold-standard for administered drugs target the clinical symptoms of the disease by exerting anti-coagulant or hemostatic effects. Additionally, for prevention of ischemic and hemorrhagic stroke, the prevailing opinion among experts is to perform surgical revascularization treatment for patients with ischemic or hemorrhagic MMD.<sup>2</sup></p>
+
+<p>While treatment may be limited as of now, with the increasing number of genetic studies, novel treatment approaches for MMD at the genetic level may be a promising therapeutic approach in the future.</p></div>
+
+### References:
+
+1. Scott RM, Smith ER. Moyamoya disease and moyamoya syndrome. _N Engl J Med_. 2009 Mar 19;360(12):1226-37. doi:10.1056/NEJMra0804622.
+2. Zhang H, Zheng L, Feng L. Epidemiology, diagnosis and treatment of moyamoya disease. _Exp Ther Med_. 2019 Mar;17(3):1977-84. doi:10.3892/etm.2019.7198.
+3. Kim JS. Moyamoya disease: Epidemiology, clinical features, and diagnosis. _J Stroke_. 2016 Jan;18(1):2-11. doi:10.5853/jos.2015.01627.
+4. Baba T, Houkin K, Kuroda S. Novel epidemiological features of moyamoya disease. _J Neurol Neurosurg Psychiatry_. 2008 Aug;79(8):900-4. doi:10.1136/jnnp.2007.130666.
+5. Ahn IM, Park DH, Hann HJ, Kim KH, Kim HJ, Ahn HS. Incidence, prevalence, and survival of moyamoya disease in Korea: a nationwide, population-based study. _Stroke_. 2014 Apr;45(4):1090-5. doi:10.1161/STROKEAHA.113.004273.
+6. Kainth D, Chaudhry SA, Kainth H, Suri FK, Qureshi AI. Epidemiological and clinical features of moyamoya disease in the USA. _Neuroepidemiology_. 2013;40(4):282-7. doi:10.1159/000345957
+7. Guey S, Tournier-Lasserve E, Hervé D, Kossorotoff M. Moyamoya disease and syndromes: from genetics to clinical management. _Appl Clin Genet_. 2015 Feb 16;8:49-68. doi:10.2147/TACG.S42772.
+8. Guey S, Kraemer M, Hervé D, Ludwig T, Kossorotoff M, Bergametti F, et al. Rare RNF213 variants in the C-terminal region encompassing the RING-finger domain are associated with moyamoya angiopathy in Caucasians. _Eur J Hum Genet_. 2017 Aug;25(8):995-1003. doi:10.1038/ejhg.2017.92.
+9. Bang OY, Chung JW, Kim DH, Won HH, Yeon JY, Ki CS, et al. Moyamoya disease and spectrums of RNF213 vasculopathy. _Transl Stroke Res_. 2019 Oct 24. doi:10.1007/s12975-019-00743-6.
+10. Koizumi A, Kobayashi H, Hitomi T, Harada KH, Habu T, Youssefian S. A new horizon of moyamoya disease and associated health risks explored through RNF213. _Environ Health Prev Med_. 2016 Mar;21(2):55-70. doi:10.1007/s12199-015-0498-7.
+11. Liu W, Morito D, Takashima S, Mineharu Y, Kobayashi H, Hitomi T, et al. Identification of RNF213 as a susceptibility gene for moyamoya disease and its possible role in vascular development. _PLoS One_. 2011;6(7):e22542. doi:10.1371/journal.pone.0022542.
+12. Fukushima H, Takenouchi T, Kosaki K. Homozygosity for moyamoya disease risk allele leads to moyamoya disease with extracranial systemic and pulmonary vasculopathy. _Am J Med Genet A_. 2016 Sep;170(9):2453-6. doi:10.1002/ajmg.a.37829.
+13. Liu W, Hitomi T, Kobayashi H, Harada KH, Koizumi A. Distribution of moyamoya disease susceptibility polymorphism p.R4810K in RNF213 in East and Southeast Asian populations. _Neurol Med Chir (Tokyo)_. 2012;52(5):299-303. doi:10.2176/nmc.52.299
+14. Miyatake S, Miyake N, Touho H, Nishimura-Tadaki A, Kondo Y, Okada I, et al. Homozygous c.14576G>A variant of RNF213 predicts early-onset and severe form of moyamoya disease. _Neurology_. 2012 Mar 13;78(11):803-10. doi:10.1212/WNL.0b013e318249f71f.
+15. Kobayashi H, Matsuda Y, Hitomi T, Okuda H, Shioi H, Matsuda T, et al. Biochemical and functional characterization of RNF213 (mysterin) R4810K, a susceptibility mutation of Moyamoya disease, in angiogenesis in vitro and in vivo. _J Am Heart Assoc_. 2015 Jun 30;4(7):e002146. doi:10.1161/JAHA.115.002146.

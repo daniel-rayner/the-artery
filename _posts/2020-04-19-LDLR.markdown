@@ -1,0 +1,55 @@
+---
+layout: single
+title: "<i>LDLR</i>: An important player in familial hypercholesterolemia"
+date: 2020-04-19 02:38:00
+author: Daniel R.
+permalink: "/LDLR-familial-hypercholesterolemia/"
+author_profile: true
+---
+### Familial Hypercholesterolemia:
+
+<div style="text-align: justify"><p> Familial hypercholesterolemia (FH) is a lipoprotein metabolism genetic disorder characterized by severely elevated plasma cholesterol levels, increasing one’s risk of ischemic heart disease, including myocardial infarction (MI).<sup>1,2</sup> Although substantial FH-attributed atherosclerosis typically manifests in adulthood, it has a precocious inception as early as the first decade of life.<sup>1</sup> If heterozygous FH (HeFH) patients are left untreated, it is estimated that 30% of women by age 60 and 50% of men by age 50 will have an MI.<sup>3</sup> Meanwhile, untreated homozygous FH (HoFH) patients generally do not live beyond age 30.<sup>3</sup> More recently, the prevalence of FH has been increasing, with prevalence rates estimated to be between 1/200 and 1/300 individuals (1/160,000 to 1/300,000 for HoFH).<sup>4</sup></p>
+
+<p>Patients with HeFH are typically asymptomatic in childhood and are identified through screening procedures, which review their total and low-density lipoprotein (LDL)-cholesterol (LDL-C) levels. HeFH individuals often have levels above the 95th percentile and have strong family histories.<sup>1</sup> Additionally, they may have peripheral markers of fat deposition, such as eruptive or tendinous xanthomas.<sup>1,5</sup> Meanwhile, those with HoFH often demonstrate a severe clinical phenotype within the first decade of life, presenting with frequent xanthomas and heavy atherosclerosis of the coronary, cerebral, and peripheral vascular systems.<sup>1</sup></p></div>
+
+<figure>
+  <img src="https://pmj.bmj.com/content/postgradmedj/85/1000/111/F1.large.jpg">
+    <figcaption> A clinical manifestation of FH—xanthomas.<sup>5</sup> The most common xanthoma in FH patients are tendinous xanthomas (40-50% of cases), which are cholesterol deposits within the tendons used for extension (e.g, extensor tendons of the hands and elbows).<sup>6</sup></figcaption>
+</figure>
+
+### The Genetic Component of FH:
+
+<div style="text-align: justify"><p>There have been several genes linked to FH, namely <i>LDLR</i>, <i>APOB</i>, <i>PCSK9</i>, and <i>LDLRAP1</i>.<sup>7,8</sup> <i>LDLR</i> mutations are the most common, accounting for >95% of all FH cases. Mutations in the other FH genes are much rarer; <i>APOB</i> mutations account for 2-5% of FH cases, and mutations in <i>PCSK9</i> and <i>LDLRAP1</i> are attributed to roughly 1% of all cases.<sup>7</sup></p>
+
+<figure>
+  <img src="https://ars.els-cdn.com/content/image/1-s2.0-S0735109714012911-gr2.jpg">
+    <figcaption>The respective functions of the key proteins implicated with FH. Defects in <i>LDLR</i>, <i>APOB</i>, <i>PCSK9</i> (when dominantly inherited), and <i>LDLRAP1</i> (when recessively inherited) cause the severe hypercholesterolemia phenotype.<sup>8</sup></figcaption>
+</figure>
+
+</div>
+### A Focus on LDLR:
+
+<div style="text-align: justify"><p>Found at chromosome 19p13.2, <i>LDLR</i> encodes the low-density lipoprotein receptor, which plays a key role in cholesterol metabolism by aiding in the binding and internalization of circulating LDL. Genetic mutations in the <i>LDLR</i> gene cause impaired LDLR function, with cultured fibroblasts from FH patients being unable to clear serum LDL as efficiently.<sup>9</sup> Based on the functional characteristics of the encoded protein, <i>LDLR</i> mutations are classified into 5 groups: 1) null alleles which prevent proper receptor synthesis, 2) defects in receptor transport from the endoplasmic reticulum to the cell surface, 3) defects altering the binding of apolipoprotein B in LDL particles to the receptor, 4) defects affecting the internalization of the LDL-LDLR complex, and 5) defects altering the recycling of the receptor.<sup>9,10</sup></p></div>
+
+### Treatment:
+
+<div style="text-align: justify"><p>The first line pharmacologic therapies for the management of FH are statins, which inhibit hydroxyl-methylglutaryl coenzyme A reductase, an enzyme essential for the synthesis of cholesterol within the liver, and ultimately decrease LDL production. Statins also stimulate the upregulation of LDL receptors, however, due to the prevalence of <i>LDLR</i> mutations in FH cases, the effectiveness of statins is heavily attenuated—the majority of FH patients do not experience the expected 50% reduction in LDL-C levels after aggressive statin therapy.<sup>10</sup> This is also the case for ezetimibe and bile acid sequestrants, which are considered to be second line therapies.<sup>10,11</sup></p>
+
+<p>Various novel medical therapies for the treatment of FH currently being evaluated, the most promising of which being PCSK9 inhibitors, which target PCSK9, a serine protease involved with LDLR degradation. Specifically, PCSK9 inhibitors are injectable monoclonal antibodies that are able to bind to PCSK9, and inhibit its ability to degrade LDL receptors, including the functional ones. Even in patients already undergoing maximum-dose statin therapies, PCSK9 inhibitors are able to reduce LDL-C levels by roughly 60%. Additionally, several clinical trials have demonstrated no offsetting safety concerns associated with PCSK9 use.<sup>10,12</sup></p>
+
+<p>Overall, while effective treatment options for FH may currently be limited, novel therapies applying the PCSK9 approach are now being harnessed and may ultimately revolutionize the treatment of dyslipidemia.</p></div>
+
+### References:
+
+1. Varghese MJ. Familial hypercholesterolemia: A review. _Ann Pediatr Cardiol_. 2014 May;7(2):107-17. doi:10.4103/0974-2069.132478.
+2. Beheshti S, Madsen CM, Varbo A, Benn M, Nordestgaard BG. Relationship of familial hypercholesterolemia and high low-density lipoprotein cholesterol to ischemic stroke: Copenhagen General Population Study. _Circulation_. 2018 Aug 7;138(6):578-89. doi:10.1161/CIRCULATIONAHA.118.033470.
+3. Li S, Zhang HW, Guo YL, Wu NQ, Zhu CG, Zhao X, et al. Familial hypercholesterolemia in very young myocardial infarction. _Sci Rep_. 2018 Jun 11;8(1):8861. doi:10.1038/s41598-018-27248-w.
+4. Vallejo-Vaz AJ, Ray KK. Epidemiology of familial hypercholesterolaemia: Community and clinical. _Atherosclerosis_. 2018 Oct;277:289-297. doi:10.1016/j.atherosclerosis.2018.06.855.
+5. Boucelma M, Azzoug A, Chentli F, Berrah A. Multiple xanthomas in a young male with familial hypercholesterolaemia. _Postgrad Med J_. 2009;85:111. doi:10.1136/pgmj.2008.074690.
+6. Zhao C, Kong M, Cao L, Zhang Q, Fang Y, Ruan W, et al. Multiple large xanthomas: A case report. _Oncol Lett_. 2016 Dec;12(6):4327-32. doi:10.3892/ol.2016.5282.
+7. Vogt A. The genetics of familial hypercholesterolemia and emerging therapies. _Appl Clin Genet_. 2015 Jan 28;8:27-36. doi:10.2147/TACG.S44315.
+8. Sniderman AD, Tsimikas S, Fazio S. The severe hypercholesterolemia phenotype: clinical diagnosis, management, and emerging therapies. _J Am Coll Cardiol_. 2014 May 20;63(19):1935-47. doi:10.1016/j.jacc.2014.01.060.
+9. Go GW, Mani A. Low-density lipoprotein receptor (LDLR) family orchestrates cholesterol homeostasis. _Yale J Biol Med_. 2012 Mar;85(1):19-28.
+10. Paththinige CS, Rajapakse JRDK, Constantine GR, Sem KP, Singaraja RR, Jayasekara RW, et al. Spectrum of low-density lipoprotein receptor (LDLR) mutations in a cohort of Sri Lankan patients with familial hypercholesterolemia - a preliminary report. _Lipids Health Dis_. 2018 May 2;17(1):100. doi:10.1186/s12944-018-0763-z.
+11. Ryan A, Nevitt SJ, Cook P. Bile acid sequestrants for primary prevention of ischaemic heart disease in heterozygous familial hypercholesterolaemia. _Cochrane Database Syst Rev_. 2017 Dec 12;2017(12):CD012896. doi:10.1002/14651858.CD012896.
+12. Sabatine MS. PCSK9 inhibitors: Clinical evidence and implementation. _Nat Rev Cardiol_. 2019 Mar;16(3):155-65. doi:10.1038/s41569-018-0107-8.

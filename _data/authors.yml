@@ -1,0 +1,8 @@
+Daniel R.:
+  name      : "Daniel Rayner"
+  bio       : "Medical Genetics Enthusiast, Bachelor of Health Sciences (Honours) '22 @ McMaster University"
+  avatar    : /assets/images/personal_photo.jpg
+  links:
+      - label: "Email"
+        icon: "fas fa-fw fa-envelope-square"
+        url: "mailto:rayned1@mcmaster.ca"
