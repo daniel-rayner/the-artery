@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "<i>NOTCH3</i>: The cause of the small-vessel angiopathy, CADASIL"
+title: "<i>NOTCH3</i>: The cause CADASIL, a small-vessel angiopathy"
 date: 2020-04-20 22:41:00
 author: Daniel R.
 permalink: "/NOTCH3-cerebral-autosomal-dominant-arteriopathy-with-subcortical-infarcts-and-leukoencephalopathy/"
@@ -23,21 +23,23 @@ author_profile: true
 
 ### A Closer Look Into <i>NOTCH3</i>:
 
-<div style="text-align: justify"><p>Found at chromosome 19p13.2, <i>NOTCH3</i> codes for a transmembrane receptor primarily expressed on vascular SMCs (VSMCs) of blood vessels and pericytes, and is vital for the normal function and survival of VSMCs.<sup>5</sup> The receptor is composed of three domains: an extracellular domain (ECD), transmembrane domain, and an intracellular domain (ICD). Binding of ligands to Notch3 stimulates proteolytic cleavage of the ECD, inducing the translocation of the ICD to the nucleus where it regulates the expression of genes involved with VSMCs differentiation, vascular response to injury, and embryogenesis-related vascular development.<sup>2</sup></div></p>
+<div style="text-align: justify"><p>Found at chromosome 19p13.2, <i>NOTCH3</i> codes for a transmembrane receptor primarily expressed on vascular SMCs (VSMCs) of blood vessels and pericytes, and is vital for the normal function and survival of VSMCs.<sup>5</sup> The receptor is composed of three domains: an extracellular domain (ECD), transmembrane domain, and an intracellular domain (ICD). Binding of ligands to Notch3 stimulates proteolytic cleavage of the ECD, inducing the translocation of the ICD to the nucleus where it regulates the expression of genes involved with VSMCs differentiation, vascular response to injury, and embryogenesis-related vascular development.<sup>2</sup></p>
 
 <figure>
   <img src="https://i.imgur.com/qQUWvxf.jpg">
     <figcaption>An overview of Notch signaling and NOTCH3 mutations. (A) The Notch ligand-receptor interactions stimulate the liberation of the Notch intracellular domain, which alongside MAML/CSL, regulates the expression of downstream genes. (B) CADASIL-causing cysteine-altering mutations and mutations from the exome aggregation consortium (ExAC) database, as well as potential cysteine-sparing mutations.<sup>5</sup></figcaption>
 </figure>
 
-<div style="text-align: justify"><p>The majority of CADASIL-causing mutations involve either the loss or gain of a cysteine residue in one of the 34 epidermal growth factor-like repeats in the ECD. These unpaired cysteine residues are thought to disrupt disulfide bridges and cause subsequent receptor misfolding.<sup>2,5</sup> Moreover, Takahashi et al. demonstrated that these mutant Notch3 receptors are highly resistant to degradation compared to wild-type receptors, causing them to accumulate in the endoplasmic reticulum.<sup>12</sup> Ultimately, while the exact contributions of <i>NOTCH3</i> mutations CADASIL are unknown, researchers hypothesize that their pathogenic effects are caused by their resistance to degradation and their aggregate-prone property, which reduces normal cell function and causes cell degeneration.<sup>13</sup></p></div>
+<p>The majority of CADASIL-causing mutations involve either the loss or gain of a cysteine residue in one of the 34 epidermal growth factor-like repeats in the ECD. These unpaired cysteine residues are thought to disrupt disulfide bridges and cause subsequent receptor misfolding.<sup>2,5</sup> Moreover, Takahashi et al. demonstrated that these mutant Notch3 receptors are highly resistant to degradation compared to wild-type receptors, causing them to accumulate in the endoplasmic reticulum.<sup>12</sup> Ultimately, while the exact contributions of <i>NOTCH3</i> mutations CADASIL are unknown, researchers hypothesize that their pathogenic effects are caused by their resistance to degradation and their aggregate-prone property, which reduces normal cell function and causes cell degeneration.<sup>13</sup></p>
 
+</div>
 
-<p>As of now, there are no successful therapeutic approaches for the treatment of CADASIL progression—patients are only given symptomatic treatments.<sup>2</sup> Acute stroke care typically involves administration of intravenous tissue plasminogen activator if the required criteria for its use is met. Meanwhile, endovascular recanalization is unlikely to be useful, as CADASIL is a small-vessel angiopathy.<sup>14</sup> Secondary prevention involves standard cardiovascular risk reduction strategies, including limiting alcohol consumption and smoking, controlling weight, undergoing regular physical activity, maintaining a balanced diet, and monitoring blood cholesterol levels.<sup>2</sup><p>
+### Treatment
+<div style="text-align: justify"><p>As of now, there are no successful therapeutic approaches for the treatment of CADASIL progression—patients are only given symptomatic treatments.<sup>2</sup> Acute stroke care typically involves administration of intravenous tissue plasminogen activator if the required criteria for its use is met. Meanwhile, endovascular recanalization is unlikely to be useful, as CADASIL is a small-vessel angiopathy.<sup>14</sup> Secondary prevention involves standard cardiovascular risk reduction strategies, including limiting alcohol consumption and smoking, controlling weight, undergoing regular physical activity, maintaining a balanced diet, and monitoring blood cholesterol levels.<sup>2</sup></p>
 
-<p>While treatment may currently be limited, the discovery that CADASIL is likely caused by cysteine-altering mutations has sparked research towards targeting this relationship. For example, in 2016, Rutten et al. proposed a novel therapy based on cysteine corrective exon skipping, which prevents the inclusion of mutated exons in the mature mRNA product.<sup>15</sup> With further genetic and functional studies, even more promising therapeutic approaches are sure to arise.</p>
+<p>While treatment may currently be limited, the discovery that CADASIL is likely caused by cysteine-altering mutations has sparked research towards targeting this relationship. For example, in 2016, Rutten et al. proposed a novel therapy based on cysteine corrective exon skipping, which prevents the inclusion of mutated exons in the mature mRNA product.<sup>15</sup> With further genetic and functional studies, even more promising therapeutic approaches are sure to arise.</p></div>
 
-
+### References
 1. van den Boom R, Lesnick Oberstein SA, van den Berg-Huysmans AA, Ferrari MD, van Buchem MA, Haan J. Cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy: Structural MR imaging changes and apolipoprotein E genotype. _AJNR Am J Neuroradiol_. 2006 Feb;27(2):359-62.
 2. Locatelli M, Padovani A, Pezzini A. Pathophysiological mechanisms and potential therapeutic targets in cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy (CADASIL). _Front Pharmacol_. 2020 Mar 13;11:321. doi:10.3389/fphar.2020.00321.
 3. Choi JC. Cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy: A genetic cause of cerebral small vessel disease. _J Clin Neurol_. 2010 Mar;6(1):1-9. doi:10.3988/jcn.2010.6.1.1.
