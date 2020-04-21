@@ -24,7 +24,7 @@ feature_row:
   title: "<i>RNF213</i>: A susceptibility gene for Moyamoya disease"
   excerpt: "<b>April 18, 2020</b> – Moyamoya disease (MMD) is a rare chronic occlusive cerebrovascular disease characterized by the progressive stenosis of the arteries of the Circle of Willis..."
   url: "/RNF213-moyamoya-disease/"
-  btn_class: "btn-info"
+  btn_class: "btn--info"
   btn_label: "Read more"
 ---
 {% include feature_row %}
