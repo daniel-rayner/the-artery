@@ -15,7 +15,7 @@ feature_row:
   btn_label: "Read more"
 - image_path: /assets/images/homepage/LDLR-cholesterol.jpg
   title: "<i>LDLR</i>: An important player in familial hypercholesterolemia"
-  excerpt: "<b>April 19, 2020</b> – Familial hypercholesterolemia (FH) is an lipoprotein metabolism genetic disorder characterized by severely elevated plasma cholesterol..."
+  excerpt: "<b>April 19, 2020</b> – Familial hypercholesterolemia (FH) is an lipoprotein metabolism genetic disorder characterized by severely elevated plasma cholesterol levels..."
   url: "/LDLR-familial-hypercholesterolemia/"
   btn_class: "btn--primary"
   btn_label: "Read more"

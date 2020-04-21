@@ -26,7 +26,7 @@ author_profile: true
 <div style="text-align: justify"><p>Found at chromosome 19p13.2, <i>NOTCH3</i> codes for a transmembrane receptor primarily expressed on vascular SMCs (VSMCs) of blood vessels and pericytes, and is vital for the normal function and survival of VSMCs.<sup>5</sup> The receptor is composed of three domains: an extracellular domain (ECD), transmembrane domain, and an intracellular domain (ICD). Binding of ligands to Notch3 stimulates proteolytic cleavage of the ECD, inducing the translocation of the ICD to the nucleus where it regulates the expression of genes involved with VSMCs differentiation, vascular response to injury, and embryogenesis-related vascular development.<sup>2</sup></p></div>
 
 <figure>
-  <img src="https://imgur.com/a/hBJoHB7">
+  <img src="https://i.imgur.com/qQUWvxf.jpg">
     <figcaption>An overview of Notch signaling and NOTCH3 mutations. (A) The Notch ligand-receptor interactions stimulate the liberation of the Notch intracellular domain, which alongside MAML/CSL, regulates the expression of downstream genes. (B) CADASIL-causing cysteine-altering mutations and mutations from the exome aggregation consortium (ExAC) database, as well as potential cysteine-sparing mutations.<sup>5</sup></figcaption>
 </figure>
 
