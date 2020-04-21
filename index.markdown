@@ -1,5 +1,5 @@
 ---
-title: "Blog Posts"
+title: ""
 layout: splash
 permalink: /
 header:
