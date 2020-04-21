@@ -23,7 +23,7 @@ author_profile: true
 
 ### A Closer Look Into <i>NOTCH3</i>:
 
-<div style="text-align: justify"><p>Found at chromosome 19p13.2, <i>NOTCH3</i> codes for a transmembrane receptor primarily expressed on vascular SMCs (VSMCs) of blood vessels and pericytes, and is vital for the normal function and survival of VSMCs.<sup>5</sup> The receptor is composed of three domains: an extracellular domain (ECD), transmembrane domain, and an intracellular domain (ICD). Binding of ligands to Notch3 stimulates proteolytic cleavage of the ECD, inducing the translocation of the ICD to the nucleus where it regulates the expression of genes involved with VSMCs differentiation, vascular response to injury, and embryogenesis-related vascular development.<sup>2</sup></p></div>
+<div style="text-align: justify"><p>Found at chromosome 19p13.2, <i>NOTCH3</i> codes for a transmembrane receptor primarily expressed on vascular SMCs (VSMCs) of blood vessels and pericytes, and is vital for the normal function and survival of VSMCs.<sup>5</sup> The receptor is composed of three domains: an extracellular domain (ECD), transmembrane domain, and an intracellular domain (ICD). Binding of ligands to Notch3 stimulates proteolytic cleavage of the ECD, inducing the translocation of the ICD to the nucleus where it regulates the expression of genes involved with VSMCs differentiation, vascular response to injury, and embryogenesis-related vascular development.<sup>2</sup></div></p>
 
 <figure>
   <img src="https://i.imgur.com/qQUWvxf.jpg">
@@ -36,7 +36,8 @@ author_profile: true
 
 <div style="text-align: justify"><p>As of now, there are no successful therapeutic approaches for the treatment of CADASIL progression—patients are only given symptomatic treatments.<sup>2</sup> Acute stroke care typically involves administration of intravenous tissue plasminogen activator if the required criteria for its use is met. Meanwhile, endovascular recanalization is unlikely to be useful, as CADASIL is a small-vessel angiopathy.<sup>14</sup> Secondary prevention involves standard cardiovascular risk reduction strategies, including limiting alcohol consumption and smoking, controlling weight, undergoing regular physical activity, maintaining a balanced diet, and monitoring blood cholesterol levels.<sup>2</sup><p>
 
-<p>While treatment may currently be limited, the discovery that CADASIL is likely caused by cysteine-altering mutations has sparked research towards targeting this relationship. For example, in 2016, Rutten et al. proposed a novel therapy based on cysteine corrective exon skipping, which prevents the inclusion of mutated exons in the mature mRNA product.<sup>15</sup> With further genetic and functional studies, even more promising therapeutic approaches are sure to arise.</p></div>
+<p>While treatment may currently be limited, the discovery that CADASIL is likely caused by cysteine-altering mutations has sparked research towards targeting this relationship. For example, in 2016, Rutten et al. proposed a novel therapy based on cysteine corrective exon skipping, which prevents the inclusion of mutated exons in the mature mRNA product.<sup>15</sup> With further genetic and functional studies, even more promising therapeutic approaches are sure to arise.</p>
+</div>
 
 ### References:
 
