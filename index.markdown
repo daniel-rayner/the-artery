@@ -5,7 +5,7 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/banner.jpg
+  overlay_image: /assets/images/banner-protein.jpg
 feature_row:
 - image_path: /assets/images/homepage/LDLR-cholesterol.jpg
   title: "<i>LDLR</i>: An important player in familial hypercholesterolemia"
