@@ -8,6 +8,12 @@ header:
   overlay_image: /assets/images/banner-protein.jpg
 feature_row:
 - image_path: /assets/images/homepage/LDLR-cholesterol.jpg
+  title: "<i>NOTCH3</i>: The cause of the small-vessel angiopathy, CADASIL"
+  excerpt: "<b>April 20, 2020</b> – Cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy (CADASIL) is a rare hereditary small-vessel angiopathy..."
+  url: "/NOTCH3-cerebral-autosomal-dominant-arteriopathy-with-subcortical-infarcts-and-leukoencephalopathy/"
+  btn_class: "btn--primary"
+  btn_label: "Read more"
+- image_path: /assets/images/homepage/LDLR-cholesterol.jpg
   title: "<i>LDLR</i>: An important player in familial hypercholesterolemia"
   excerpt: "<b>April 19, 2020</b> – Familial hypercholesterolemia (FH) is an lipoprotein metabolism genetic disorder characterized by severely elevated plasma cholesterol..."
   url: "/LDLR-familial-hypercholesterolemia/"

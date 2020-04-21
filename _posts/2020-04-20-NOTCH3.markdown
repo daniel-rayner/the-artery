@@ -1,0 +1,57 @@
+---
+layout: single
+title: "<i>NOTCH3</i>: The cause of the small-vessel angiopathy, CADASIL"
+date: 2020-04-20 22:41:00
+author: Daniel R.
+permalink: "/NOTCH3-cerebral-autosomal-dominant-arteriopathy-with-subcortical-infarcts-and-leukoencephalopathy/"
+author_profile: true
+---
+### CADASIL Overview:
+
+<div style="text-align: justify"><p> Cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy (CADASIL) is a rare hereditary small-vessel angiopathy which typically manifests in middle-aged adults and is caused by mutations in the <i>NOTCH3</i> gene.<sup>1,2</sup> Due to the increasing availability of diagnostic expertise and genetic testing, the number of identified CADASIL cases has been gradually increasing, with recent estimates suggesting a minimum prevalence rate between 2/100,000 and 5/100,000.<sup>3,4</sup></p></div>
+
+<figure>
+  <img src="http://www.ajnr.org/content/ajnr/27/2/359/F1.large.jpg">
+    <figcaption> MR imaging of CADASIL: confluent hyperintensities (A-C), lacunar infarcts (A, arrow), subcortical lacunar lesions (B, arrow), and microbleeds (D, arrow).<sup>1</sup></figcaption>
+</figure>
+
+<div style="text-align: justify"><p>On a cellular level, CADASIL exhibits degeneration of the smooth muscle cells (SMCs) within the tunica media, a thickening of the vessel walls in small vessels, and a narrowing of the lumen. These alterations cause relatively symmetrical white matter changes, microbleeds, dilated perivascular spaces, lacunar ischemic infarcts and subcortical and cortical atrophy.<sup>5</sup></p>
+
+<p>The clinical presentation of CADASIL often varies between patients, however, the pathology typically presents with four key symptoms: recurrent ischemic strokes, cognitive decline, psychiatric disturbances, and migraine with aura.<sup>2</sup> Transient ischemic attacks and infarctions are the most common symptom in CADASIL, occurring in 60-85% of symptomatic patients.<sup>6</sup> The second most frequent symptom is cognitive impairment, which occurs in 60% of cases. This impairment becomes clinically detectable at age 35-50 and progressively worsens with recurrent strokes and aging.<sup>7</sup> Psychiatric disturbances appear in 25-30% of affected subjects, and are typically in the form of depression, bipolar disorders, apathy, or schizophrenia.<sup>6.8,9</sup> Finally, migraine with aura occurs in 20-40% individuals, however, frequency of attacks varies among cases.<sup>6</sup></p>
+
+<p>Despite the large variability between CADASIL cases, all individuals progress until disability and dementia. By the age of 58, >50% of CADASIL patients are unable to walk, and by age 65, roughly 65% of individuals require individual care and cannot attend to their own bodily needs.<sup>2</sup> Life expectancy is significantly reduced in CADASIL patients, with a mean age at death of 64.4 years in men and 70.7 years in women.<sup>4</sup></p></div>
+
+### A Closer Look Into <i>NOTCH3</i>:
+
+<div style="text-align: justify"><p>Found at chromosome 19p13.2, <i>NOTCH3</i> codes for a transmembrane receptor primarily expressed on vascular SMCs (VSMCs) of blood vessels and pericytes, and is vital for the normal function and survival of VSMCs.<sup>5</sup> The receptor is composed of three domains: an extracellular domain (ECD), transmembrane domain, and an intracellular domain (ICD). Binding of ligands to Notch3 stimulates proteolytic cleavage of the ECD, inducing the translocation of the ICD to the nucleus where it regulates the expression of genes involved with VSMCs differentiation, vascular response to injury, and embryogenesis-related vascular development.<sup>2</sup></p></div>
+
+<figure>
+  <img src="https://imgur.com/a/hBJoHB7">
+    <figcaption>An overview of Notch signaling and NOTCH3 mutations. (A) The Notch ligand-receptor interactions stimulate the liberation of the Notch intracellular domain, which alongside MAML/CSL, regulates the expression of downstream genes. (B) CADASIL-causing cysteine-altering mutations and mutations from the exome aggregation consortium (ExAC) database, as well as potential cysteine-sparing mutations.<sup>5</sup></figcaption>
+</figure>
+
+<div style="text-align: justify"><p>The majority of CADASIL-causing mutations involve either the loss or gain of a cysteine residue in one of the 34 epidermal growth factor-like repeats in the ECD. These unpaired cysteine residues are thought to disrupt disulfide bridges and cause subsequent receptor misfolding.<sup>2,5</sup> Moreover, Takahashi et al. demonstrated that these mutant Notch3 receptors are highly resistant to degradation compared to wild-type receptors, causing them to accumulate in the endoplasmic reticulum.<sup>12</sup> Ultimately, while the exact contributions of <i>NOTCH3</i> mutations CADASIL are unknown, researchers hypothesize that their pathogenic effects are caused by their resistance to degradation and their aggregate-prone property, which reduces normal cell function and causes cell degeneration.<sup>13</sup></p></div>
+
+### Treatment:
+
+<div style="text-align: justify"><p>As of now, there are no successful therapeutic approaches for the treatment of CADASIL progression—patients are only given symptomatic treatments.<sup>2</sup> Acute stroke care typically involves administration of intravenous tissue plasminogen activator if the required criteria for its use is met. Meanwhile, endovascular recanalization is unlikely to be useful, as CADASIL is a small-vessel angiopathy.<sup>14</sup> Secondary prevention involves standard cardiovascular risk reduction strategies, including limiting alcohol consumption and smoking, controlling weight, undergoing regular physical activity, maintaining a balanced diet, and monitoring blood cholesterol levels.<sup>2</sup><p>
+
+<p>While treatment may currently be limited, the discovery that CADASIL is likely caused by cysteine-altering mutations has sparked research towards targeting this relationship. For example, in 2016, Rutten et al. proposed a novel therapy based on cysteine corrective exon skipping, which prevents the inclusion of mutated exons in the mature mRNA product.<sup>15/<sup> With further genetic and functional studies, even more promising therapeutic approaches are sure to arise.</p></div>
+
+### References:
+
+1. van den Boom R, Lesnick Oberstein SA, van den Berg-Huysmans AA, Ferrari MD, van Buchem MA, Haan J. Cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy: Structural MR imaging changes and apolipoprotein E genotype. _AJNR Am J Neuroradiol_. 2006 Feb;27(2):359-62.
+2. Locatelli M, Padovani A, Pezzini A. Pathophysiological mechanisms and potential therapeutic targets in cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy (CADASIL). _Front Pharmacol_. 2020 Mar 13;11:321. doi:10.3389/fphar.2020.00321.
+3. Choi JC. Cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy: A genetic cause of cerebral small vessel disease. _J Clin Neurol_. 2010 Mar;6(1):1-9. doi:10.3988/jcn.2010.6.1.1.
+4. Di Donato I, Bianchi S, De Stefano N, Dichgans M, Dotti MT, Duering M, et al. Cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy (CADASIL) as a model of small vessel disease: Update on clinical, diagnostic, and management aspects. _BMC Med_. 2017 Feb 24;15(1):41. doi:10.1186/s12916-017-0778-8.
+5. Coupland K, Lendahl U, Karlström H. Role of NOTCH3 mutations in the cerebral small vessel disease cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy. _Stroke_. 2018 Nov;49(11):2793-800. doi:10.1161/STROKEAHA.118.021560.
+6. Chabriat H, Joutel A, Dichgans M, Tournier-Lasserve E, Bousser MG. Cadasil. _Lancet Neurol_. 2009 Jul;8(7):643-53. doi:10.1016/S1474-4422(09)70127-9.
+7. Buffon F, Porcher R, Hernandez K, Kurtz A, Pointeau S, Vahedi K, et al. Cognitive profile in CADASIL. _J Neurol Neurosurg Psychiatry_. 2006 Feb;77(2):175-80. doi:10.1136/jnnp.2005.068726.
+8. Lågas PA, Juvonen V. Schizophrenia in a patient with cerebral autosomally dominant arteriopathy with subcortical infarcts and leucoencephalopathy (CADASIL disease). _Nord J Psychiatry_. 2001;55(1):41-2. doi:10.1080/080394801750093724.
+9. Reyes S, Viswanathan A, Godin O, Dufouil C, Benisty S, Hernandez K, et al. Apathy: A major symptom in CADASIL. _Neurology_. 2009 Mar 10;72(10):905-10. doi:10.1212/01.wnl.0000344166.03470.f8.
+10. Moreton FC, Razvi SS, Davidson R, Muir KW. Changing clinical patterns and increasing prevalence in CADASIL. _Acta Neurol Scand_. 2014 Sep;130(3):197-203. doi:10.1111/ane.12266.
+11. Chen X, Deng S, Xu H, Hou D, Hu P, Yang Y, et al. Novel and recurring NOTCH3 mutations in two Chinese patients with CADASIL. _Neurodegener Dis_. 2019;19(1):35-42. doi:10.1159/000500166.
+12. Takahashi K, Adachi K, Yoshizaki K, Kunimoto S, Kalaria RN, Watanabe A. Mutations in NOTCH3 cause the formation and retention of aggregates in the endoplasmic reticulum, leading to impaired cell proliferation. _Hum Mol Genet_. 2010 Jan 1;19(1):79-89. doi:10.1093/hmg/ddp468.
+13. Yamamoto Y, Craggs L, Baumann M, Kalimo H, Kalaria RN. Review: Molecular genetics and pathology of hereditary small vessel diseases of the brain. _Neuropathol Appl Neurobiol_. 2011 Feb;37(1):94-113. doi:10.1111/j.1365-2990.2010.01147.x.
+14. Khan MT, Murray A, Smith M. Successful use of intravenous tissue plasminogen activator as treatment for a patient with cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy: A case report and review of literature. _J Stroke Cerebrovasc Dis_. 2016 Apr;25(4):e53-7.
+15. Rutten JW, Dauwerse HG, Peters DJ, Goldfarb A, Venselaar H, Haffner C, et al. Therapeutic NOTCH3 cysteine correction in CADASIL using exon skipping: In vitro proof of concept. _Brain_. 2016 Apr;139(Pt 4):1123-35. doi:10.1093/brain/aww011.
