@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/banner-protein.jpg
 feature_row:
 - image_path: /assets/images/homepage/CADASIL.jpg
-  title: "<i>NOTCH3</i>: The cause CADASIL, a small-vessel angiopathy"
+  title: "<i>NOTCH3</i>: The cause of CADASIL, a small-vessel angiopathy"
   excerpt: "<b>April 20, 2020</b> – Cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy (CADASIL) is a rare hereditary small-vessel angiopathy..."
   url: "/NOTCH3-cerebral-autosomal-dominant-arteriopathy-with-subcortical-infarcts-and-leukoencephalopathy/"
   btn_class: "btn--primary"
