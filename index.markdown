@@ -11,13 +11,13 @@ feature_row:
   title: "<i>NOTCH3</i>: The cause of CADASIL, a small-vessel angiopathy"
   excerpt: "<b>April 20, 2020</b> – Cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy (CADASIL) is a rare hereditary small-vessel angiopathy..."
   url: "/NOTCH3-cerebral-autosomal-dominant-arteriopathy-with-subcortical-infarcts-and-leukoencephalopathy/"
-  btn_class: "btn--custom1"
+  btn_class: "btn--custom"
   btn_label: "Read more"
 - image_path: /assets/images/homepage/LDLR-cholesterol.jpg
   title: "<i>LDLR</i>: An important player in familial hypercholesterolemia"
   excerpt: "<b>April 19, 2020</b> – Familial hypercholesterolemia (FH) is an lipoprotein metabolism genetic disorder characterized by severely elevated plasma cholesterol levels..."
   url: "/LDLR-familial-hypercholesterolemia/"
-  btn_class: "btn--custom1"
+  btn_class: "btn--custom"
   btn_label: "Read more"
 - image_path: /assets/images/homepage/MRA_Moya-moya-disease.JPG
   alt: "MMD"
