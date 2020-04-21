@@ -39,8 +39,8 @@ author_profile: true
 <p>While treatment may currently be limited, the discovery that CADASIL is likely caused by cysteine-altering mutations has sparked research towards targeting this relationship. For example, in 2016, Rutten et al. proposed a novel therapy based on cysteine corrective exon skipping, which prevents the inclusion of mutated exons in the mature mRNA product.<sup>15</sup> With further genetic and functional studies, even more promising therapeutic approaches are sure to arise.</p>
 </div>
 
-### References:
 
+References:
 1. van den Boom R, Lesnick Oberstein SA, van den Berg-Huysmans AA, Ferrari MD, van Buchem MA, Haan J. Cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy: Structural MR imaging changes and apolipoprotein E genotype. _AJNR Am J Neuroradiol_. 2006 Feb;27(2):359-62.
 2. Locatelli M, Padovani A, Pezzini A. Pathophysiological mechanisms and potential therapeutic targets in cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy (CADASIL). _Front Pharmacol_. 2020 Mar 13;11:321. doi:10.3389/fphar.2020.00321.
 3. Choi JC. Cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy: A genetic cause of cerebral small vessel disease. _J Clin Neurol_. 2010 Mar;6(1):1-9. doi:10.3988/jcn.2010.6.1.1.
