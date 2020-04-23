@@ -1,9 +1,9 @@
 ---
 layout: single
-title: "<i>ENG</i> & <i>ACVRL1</i>: The main contributors of hereditary hemorrhagic telangiectasia"
+title: "<i>ENG</i>: A gene for hereditary hemorrhagic telangiectasia"
 date: 2020-04-23 01:10:00
 author: Daniel R.
-permalink: "/ENG-ACVRL1-hereditary-hemorrhagic-telangiectasia/"
+permalink: "/ENG-hereditary-hemorrhagic-telangiectasia/"
 author_profile: true
 ---
 ### Hereditary Hemorrhagic Telangiectasia:
@@ -23,7 +23,7 @@ author_profile: true
 
 <div style="text-align: justify"><p>Currently, there are three major genes in which their mutations have been linked to HHT: <i>ENG</i>, <i>ACVRL1</i>, and <i>MADH4</i>. <i>ENG</i> mutations are the most common and cause type 1 HHT, which accounts for 61% of HHT cases. Meanwhile, mutations in <i>ACVRL1</i> lead to type 2 HHT, accounting for 37% of all cases. Finally, a much rarer (2%) form of HHT combined with juvenile polyposis has been linked to mutations in <i>MADH4</i>.<sup>1</sup></p></div>
 
-### A Closer Look Into ENG & ACVRL1:
+### A Closer Look Into _ENG_ & _ACVRL1_:
 
 <div style="text-align: justify"><p>Found at chromosome 9q34.11, <i>ENG</i> codes for endoglin, a homodimeric transmembrane glycoprotein, expressed predominantly on endothelial cells, syncytiotrophoblasts, activated monocytes, and tissue macrophages.<sup>3,8</sup> Endoglin plays a role in the transforming growth factor beta (TGFβ) signaling pathway, particularly, by associating with different signaling receptors and modifying TGFβ1 signaling.<sup>3</sup> Meanwhile, <i>ACVRL1</i> (chromosomal location, 12q13.13) encodes activin A receptor type II-like 1 (ACVRL1), a cell-surface receptor for TGFβ ligands, and is predominantly expressed on endothelial, lung, and placental cells.<sup>3,8</sup></p></div>
 
