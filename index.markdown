@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/banner-protein.jpg
 feature_row:
 - image_path: /assets/images/homepage/HHT.jpg
-  title: "<i>ENG</i>: A gene for hereditary hemorrhagic telangiectasia"
+  title: "<i>ENG</i>/<i>ACVRL1</i>: Two genes for hereditary hemorrhagic telangiectasia"
   excerpt: "<b>April 23, 2020</b> – Hereditary hemorrhagic telangiectasia (HHT), also known as Osler-Weber-Rendu syndrome, is an autosomal dominant vascular malformation disorder..."
   url: "/ENG-ACVRL1-hereditary-hemorrhagic-telangiectasia/"
   btn_class: "btn--info"
