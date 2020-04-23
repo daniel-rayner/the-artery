@@ -7,6 +7,12 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/banner-protein.jpg
 feature_row:
+- image_path: /assets/images/homepage/HHT.jpg
+  title: "<i>ENG</i> & <i>ACVRL1</i>: The main contributors of hereditary hemorrhagic telangiectasia"
+  excerpt: "<b>April 23, 2020</b> – Hereditary hemorrhagic telangiectasia (HHT), also known as Osler-Weber-Rendu syndrome, is an autosomal dominant vascular malformation disorder..."
+  url: "/ENG-ACVRL1-hereditary-hemorrhagic-telangiectasia/"
+  btn_class: "btn--info"
+  btn_label: "Read more"
 - image_path: /assets/images/homepage/CADASIL.jpg
   title: "<i>NOTCH3</i>: The cause of CADASIL, a small-vessel angiopathy"
   excerpt: "<b>April 20, 2020</b> – Cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy (CADASIL) is a rare hereditary small-vessel angiopathy..."

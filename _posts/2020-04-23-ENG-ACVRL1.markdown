@@ -1,0 +1,54 @@
+---
+layout: single
+title: "<i>ENG</i> & <i>ACVRL1</i>: The main contributors of hereditary hemorrhagic telangiectasia"
+date: 2020-04-23 01:10:00
+author: Daniel R.
+permalink: "/ENG-ACVRL1-hereditary-hemorrhagic-telangiectasia/"
+author_profile: true
+---
+### Hereditary Hemorrhagic Telangiectasia:
+
+<div style="text-align: justify"><p> Hereditary hemorrhagic telangiectasia (HHT), also known as Osler-Weber-Rendu syndrome, is an autosomal dominant vascular malformation disorder characterized by telangiectases and arteriovenous malformations (AVMs) in specific locations.<sup>1,2</sup> AVMs are direct connections between arteries and veins, lacking intervening capillaries, and typically develop in the liver, brain, and lungs. Meanwhile, smaller AVMs—called telangiectases—are most evident on the lips, tongue, face, and fingers, as well as the gastrointestinal (GI), buccal, and nasal mucosa.3 Both AVMs and telangiectases are prone to rupture and hemorrhage, with the severity depending on the location.<sup>3,4</sup> Depending on the region, the prevalence of HHT is estimated to range between 1/5,000 and 1/8,000, classifying it as a rare disease.<sup>1</sup></p></div>
+
+<figure>
+  <img src="https://www.nejm.org/na101/home/literatum/publisher/mms/journals/content/nejm/2019/nejm_2019.381.issue-26/nejmicm1905896/20191220/images/img_large/nejmicm1905896_f1.jpeg">
+    <figcaption>Some of the clinical manifestations of HHT: telangiectasias on the oral mucosa and fingers (A and B), and pulmonary arteriovenous malformations (C and D).<sup>5</sup></figcaption>
+</figure>
+
+<div style="text-align: justify"><p>HHT displays age-related penetrance, with increasing manifestations of symptoms occurring over a lifespan.<sup>3</sup> By age 16, roughly 70% of individuals have some features of HHT, and 90% by the age of 40.<sup>4</sup> The most frequent complication is recurrent epistaxis (nosebleeds), with roughly 50% of HHT patients experiencing them by the age of 10, and increasing up to 95% with age. The severity of these nosebleeds varies, ranging from 3-6 minute-long nosebleeds a year to multiple lengthy nosebleeds a day.<sup>2</sup> Visible telangiectases of the skin and buccal mucosa begin to appear in the third decade of life in roughly 90% of cases, and increase in frequency with age. Additionally, recurrent GI hemorrhage occurs in roughly 15-20% of individuals, and peaks in the sixth decade of life.<sup>1,6</sup></p>
+
+<p>Major complications of HHT include stroke (ischemic from pulmonary AVMs; haemorrhagic from cerebral AVMs), severe anemia (from recurrent nasal and GI bleeds), deep vein thrombosis, and in more rare cases, pulmonary hypertension, spinovascular accidents, and liver disease requiring transplantation.<sup>6</sup></p></div>
+
+### The Genetics of HHT:
+
+<div style="text-align: justify"><p>Currently, there are three major genes in which their mutations have been linked to HHT: <i>ENG</i>, <i>ACVRL1</i>, and <i>MADH4</i>. <i>ENG</i> mutations are the most common and cause type 1 HHT, which accounts for 61% of HHT cases. Meanwhile, mutations in <i>ACVRL1</i> lead to type 2 HHT, accounting for 37% of all cases. Finally, a much rarer (2%) form of HHT combined with juvenile polyposis has been linked to mutations in <i>MADH4</i>.<sup>1</sup></p></div>
+
+### A Closer Look Into ENG & ACVRL1:
+
+<div style="text-align: justify"><p>Found at chromosome 9q34.11, <i>ENG</i> codes for endoglin, a homodimeric transmembrane glycoprotein, expressed predominantly on endothelial cells, syncytiotrophoblasts, activated monocytes, and tissue macrophages.<sup>3,8</sup> Endoglin plays a role in the transforming growth factor beta (TGFβ) signaling pathway, particularly, by associating with different signaling receptors and modifying TGFβ1 signaling.<sup>3</sup> Meanwhile, <i>ACVRL1</i> (chromosomal location, 12q13.13) encodes activin A receptor type II-like 1 (ACVRL1), a cell-surface receptor for TGFβ ligands, and is predominantly expressed on endothelial, lung, and placental cells.<sup>3,8</sup></p></div>
+
+<figure>
+  <img src="https://ars.els-cdn.com/content/image/1-s2.0-S1214021X14600302-gr2.jpg">
+    <figcaption>An overview of the TGFβ signaling pathway. In vascular endothelial cells, endoglin is able to bind to activin A receptors, which eventually stimulates the expression of genes involved with cell proliferation and adhesion.<sup>7</sup></figcaption>
+</figure>
+
+<div style="text-align: justify"><p>TGFβ signaling is vital for regulating many cellular processes, including proliferation, differentiation, adhesion, and migration. Endoglin and ACVRL1 have been shown to be vital for the development and maintenance of arteriovenous identity, through the coordination of smooth muscle cell recruitment work in unison to regulate cellular proliferation and adhesion.<sup>3,9</sup> However, despite our current knowledge on the TGFβ1 signalling pathway, the exact contributions of <i>ENG</i> and <i>ACRVL1</i> mutations towards the pathogenesis of HHT remain to be elucidated.<sup>3</sup></p></div>
+
+### Treatment:
+
+<div style="text-align: justify"><p>At the moment, there are currently no successful treatments allowing for the reverting of telangiectases and AVMs into normal vasculature—current therapies only target the signs and symptoms of HHT.<sup>10,11</sup> Typical treatment for recurrent nosebleeds include surgical nasal packing, administration of angiogenesis inhibitors, or maintenance of the nasal mucosa through air humidification and regular application of lubricants. Additionally, HHT patients are frequently screened for GI hemorrhage, as well as cerebral, pulmonary, and hepatic AVMs.<sup>10</sup></p>
+
+<p>While treatment may be limited as of now, in the future, with more endoglin/ACVRL1 functional studies and a better understanding of HHT pathogenesis, promising therapeutic approaches are sure to arise.</p></div>
+
+### References:
+1. Kühnel T, Wirsching K, Wohlgemuth W, Chavan A, Evert K, Vielsmeier V. Hereditary hemorrhagic telangiectasia. _Otolaryngol Clin North Am_. 2018 Feb;51(1):237-54. doi:10.1016/j.otc.2017.09.017.
+2. McDonald J, Wooderchak-Donahue W, VanSant Webb C, Whitehead K, Stevenson DA, Bayrak-Toydemir P. Hereditary hemorrhagic telangiectasia: Genetics and molecular diagnostics in a new era. _Front Genet_. 2015 Jan 26;6:1. doi:10.3389/fgene.2015.00001.
+3. McDonald J, Bayrak-Toydemir P, Pyeritz RE. Hereditary hemorrhagic telangiectasia: An overview of diagnosis, management, and pathogenesis. _Genet Med_. 2011 Jul;13(7):607-16. doi:10.1097/GIM.0b013e3182136d32.
+4. Li S, Wang SJ, Zhao YQ. Clinical features and treatment of hereditary hemorrhagic telangiectasia. _Medicine (Baltimore)_. 2018 Aug;97(31):e11687. doi:10.1097/MD.0000000000011687.
+5. Schotland H, Denstaedt S. Hereditary hemorrhagic telangiectasia. _N Engl J Med_. 2019 Dec 26;381(26):2552. doi:10.1056/NEJMicm1905896.
+6. Govani FS, Shovlin CL. Hereditary haemorrhagic telangiectasia: A clinical and scientific review. _Eur J Hum Genet_. 2009 Jul;17(7):860-71. doi:10.1038/ejhg.2009.35.
+7. Bernabeu C, Blanco FJ, Langa C, Garrido-Martin EM, Botella LM. Involvement of the TGF-β superfamily signalling pathway in hereditary haemorrhagic telangiectasia. _J Appl Biomed_. 2010; 8(3):169-77. doi:10.2478/v10136-009-0020-x.
+8. Kim D, Seo EJ, Song YS, Suh CH, Kim JW, Kim DJ, et al. Current status of clinical diagnosis and genetic analysis of hereditary hemorrhagic telangiectasia in South Korea: Multicenter case series and a systematic review. _Neurointervention_. 2019 Sep;14(2):91-8. doi:10.5469/neuroint.2019.00150.
+9. Mancini ML, Terzic A, Conley BA, Oxburgh LH, Nicola T, Vary CP. Endoglin plays distinct roles in vascular smooth muscle cell recruitment and regulation of arteriovenous identity during angiogenesis. _Dev Dyn_. 2009 Oct;238(10):2479-93. doi:10.1002/dvdy.22066.
+10. Garg N, Khunger M, Gupta A, Kumar N. Optimal management of hereditary hemorrhagic telangiectasia. _J Blood Med_. 2014 Oct 15;5:191-206. doi:10.2147/JBM.S45295.
+11. Robert F, Desroches-Castan A, Bailly S, Dupuis-Girod S, Feige JJ. Future treatments for hereditary hemorrhagic telangiectasia. _Orphanet J Rare Dis_. 2020 Jan 7;15(1):4. doi:10.1186/s13023-019-1281-4.
