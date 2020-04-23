@@ -28,7 +28,7 @@ author_profile: true
 <div style="text-align: justify"><p>Found at chromosome 9q34.11, <i>ENG</i> codes for endoglin, a homodimeric transmembrane glycoprotein, expressed predominantly on endothelial cells, syncytiotrophoblasts, activated monocytes, and tissue macrophages.<sup>3,8</sup> Endoglin plays a role in the transforming growth factor beta (TGFβ) signaling pathway, particularly, by associating with different signaling receptors and modifying TGFβ1 signaling.<sup>3</sup> Meanwhile, <i>ACVRL1</i> (chromosomal location, 12q13.13) encodes activin A receptor type II-like 1 (ACVRL1), a cell-surface receptor for TGFβ ligands, and is predominantly expressed on endothelial, lung, and placental cells.<sup>3,8</sup></p></div>
 
 <figure>
-  <img src="https://ars.els-cdn.com/content/image/1-s2.0-S1214021X14600302-gr2.jpg">
+  <img src="https://www.researchgate.net/profile/Carmelo_Bernabeu/publication/45183157/figure/fig2/AS:307354055790595@1450290325597/HHT-and-the-TGF-b-signalling-pathway-Members-of-the-TGF-b-family-which-includes-TGF.png">
     <figcaption>An overview of the TGFβ signaling pathway. In vascular endothelial cells, endoglin is able to bind to activin A receptors, which eventually stimulates the expression of genes involved with cell proliferation and adhesion.<sup>7</sup></figcaption>
 </figure>
 
