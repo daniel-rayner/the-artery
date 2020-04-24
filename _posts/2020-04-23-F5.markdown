@@ -19,7 +19,7 @@ author_profile: true
 <p>Typically, APC inhibits factor Va by cleaving conserved arginine (R) residues, specifically R306, R506, and R679. However, in FVL, there is a missense mutation (c.1691G>A) in <i>F5</i>, causing R506 to be replaced with a glutamine (Q) residue (R506Q). This point mutation increases factor Va’s resistance towards being degraded by APC, thereby increasing one’s risk for venous thrombosis.<sup>11</sup></p></div>
 
 <figure>
-  <img src="https://i.imgur.com/P6cRpfQ.jpg">
+  <img src="https://i.imgur.com/pBO4v63.png">
     <figcaption>The anticoagulant effect exerted by the APC system. Thrombomodulin (TM) is able to activate protein C, which subsequently binds to protein S (PS) and inactivates factor Va and factor VIIIa. Note how inhibition of factor Va is reduced when Leiden V mutations are present.<sup>12</sup></figcaption>
 </figure>
 
