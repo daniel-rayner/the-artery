@@ -22,7 +22,7 @@ author_profile: true
 
 <figure>
   <img src="https://www.mdpi.com/ijms/ijms-21-01439/article_deploy/html/images/ijms-21-01439-g008.png">
-    <figcaption>A schematic representation of clinical manifestations in FHBL due to mutations in the APOB gene. Due to impaired triglyceride circulations, FHBL patients are often deficient in fat-soluble vitamins and can experience associated symptoms. (FERG: flash full-field electroretinography; PERG: transient pattern electroretinography; PVEP: transient pattern visual evoked potentials).<sup>10</sup></figcaption>
+    <figcaption>A schematic representation of clinical manifestations in FHBL due to mutations in the <i>APOB</i> gene. Due to impaired triglyceride circulations, FHBL patients are often deficient in fat-soluble vitamins and can experience associated symptoms. (FERG: flash full-field electroretinography; PERG: transient pattern electroretinography; PVEP: transient pattern visual evoked potentials).<sup>10</sup></figcaption>
 </figure>
 
 ### Treatment:
