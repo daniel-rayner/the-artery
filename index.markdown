@@ -15,7 +15,7 @@ feature_row:
   btn_label: "Read more"
 - image_path: /assets/images/homepage/FVL.jpg
   title: "<i>F5</i>: The stem of factor V Leiden thrombophilia"
-  excerpt: "<b>April 23, 2020</b> – First described in 1993 by Dählback et al., factor V Leiden (FVL) is a common autosomal codominant thrombophilia characterized by poor anticoagulant response..."
+  excerpt: "<b>April 23, 2020</b> – First described in 1993 by Dählback et al., factor V Leiden (FVL) is a common autosomal codominant thrombophilia characterized by poor anticoagulant..."
   url: "/F5-factor-V-leiden-thrombophilia/"
   btn_class: "btn--info"
   btn_label: "Read more"
