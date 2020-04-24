@@ -27,7 +27,7 @@ author_profile: true
 
 ### Treatment:
 
-<div style="text-align: justify"><p>As the main adverse clinical manifestations of heterozygous FHBL are mild elevation of liver enzymes and development of hepatic steatosis, management typically involves frequent blood tests and monitoring of diet.<sup>2</sup> Specifically, FHBL patients are recommended to take vitamin supplements (vitamin A, D, E, and K) as well as consuming a diet in low fat and reduced long-chain fatty acids.<sup>11</sup></p></div>
+<div style="text-align: justify"><p>As the main adverse clinical manifestations of heterozygous FHBL are mild elevation of liver enzymes and development of hepatic steatosis, management typically involves frequent blood tests and monitoring of diet.<sup>2</sup> Specifically, FHBL patients are recommended to take vitamin supplements (vitamins A, D, E, and K) as well as consuming a diet in low fat and reduced long-chain fatty acids.<sup>11</sup></p></div>
 
 ### References:
 1. Steinberg D, Grundy SM, Mok HY, Turner JD, Weinstein DB, Brown WV, et al. Metabolic studies in an unusual case of asymptomatic familial hypobetalipoproteinemia with hypolphalipoproteinemia and fasting chylomicronemia. _J Clin Invest_. 1979 Jul;64(1):292-301. doi:10.1172/JCI109451.
