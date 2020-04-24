@@ -9,7 +9,7 @@ header:
 feature_row:
 - image_path: /assets/images/homepage/APOB.jpg
   title: "<i>APOB</i>: The genetic cause of familial hypobetalipoproteinemia"
-  excerpt: "<b>April 23, 2020</b> – First described 1979 by Steinberg et al., familial hypobetalipoproteinemia (FHBL) is an autosomal codominant metabolic disorder predominantly caused by..."
+  excerpt: "<b>April 24, 2020</b> – First described 1979 by Steinberg et al., familial hypobetalipoproteinemia (FHBL) is an autosomal codominant metabolic disorder predominantly caused by..."
   url: "/APOB-familial-hypobetalipoproteinemia/"
   btn_class: "btn--info"
   btn_label: "Read more"
