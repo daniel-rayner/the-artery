@@ -1,5 +1,5 @@
 ---
-title: "Blog Posts"
+title: "Recent Blog Posts"
 layout: splash
 permalink: /
 header:
@@ -39,7 +39,28 @@ feature_row:
   btn_label: "Read more"
 - image_path: /assets/images/homepage/MRA_Moya-moya-disease.JPG
   alt: "MMD"
-  title: "<i>RNF213</i>: A susceptibility gene for Moyamoya disease"
+  title: "<i>RNF213</i>: A susceptibility gene for moyamoya disease"
+  excerpt: "<b>April 18, 2020</b> – Moyamoya disease (MMD) is a rare chronic occlusive cerebrovascular disease characterized by the progressive stenosis of the arteries of the Circle of Willis..."
+  url: "/RNF213-moyamoya-disease/"
+  btn_class: "btn--info"
+  btn_label: "Read more"
+- image_path: /assets/images/homepage/MRA_Moya-moya-disease.JPG
+  alt: "MMD"
+  title: "<i>RNF213</i>: A susceptibility gene for moyamoya disease"
+  excerpt: "<b>April 18, 2020</b> – Moyamoya disease (MMD) is a rare chronic occlusive cerebrovascular disease characterized by the progressive stenosis of the arteries of the Circle of Willis..."
+  url: "/RNF213-moyamoya-disease/"
+  btn_class: "btn--info"
+  btn_label: "Read more"
+- image_path: /assets/images/homepage/MRA_Moya-moya-disease.JPG
+  alt: "MMD"
+  title: "<i>RNF213</i>: A susceptibility gene for moyamoya disease"
+  excerpt: "<b>April 18, 2020</b> – Moyamoya disease (MMD) is a rare chronic occlusive cerebrovascular disease characterized by the progressive stenosis of the arteries of the Circle of Willis..."
+  url: "/RNF213-moyamoya-disease/"
+  btn_class: "btn--info"
+  btn_label: "Read more"
+- image_path: /assets/images/homepage/MRA_Moya-moya-disease.JPG
+  alt: "MMD"
+  title: "<i>RNF213</i>: A susceptibility gene for moyamoya disease"
   excerpt: "<b>April 18, 2020</b> – Moyamoya disease (MMD) is a rare chronic occlusive cerebrovascular disease characterized by the progressive stenosis of the arteries of the Circle of Willis..."
   url: "/RNF213-moyamoya-disease/"
   btn_class: "btn--info"
