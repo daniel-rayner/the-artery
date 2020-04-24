@@ -16,10 +16,10 @@ author_profile: true
 
 <div style="text-align: justify"><p>Located at chromosome 1q24.2, <i>F5</i> encodes the factor V protein, which when activated (factor Va), plays a vital role in amplification of the coagulation casacde.<sup>4,10</sup></p>
 
-<p>Typically, APC inhibits factor Va by cleaving conserved arginine (R) residues, specifically R306, R506, and R679. However, in FVL, there is a missense mutation (c.1691G>A) in <i>F5</i>, causing R506 to be replaced with a glutamine residue (R506Q). This point mutation increases factor Va’s resistance towards being degraded by APC, thereby increasing one’s risk for venous thrombosis.<sup>11</sup></p></div>
+<p>Typically, APC inhibits factor Va by cleaving conserved arginine (R) residues, specifically R306, R506, and R679. However, in FVL, there is a missense mutation (c.1691G>A) in <i>F5</i>, causing R506 to be replaced with a glutamine (Q) residue (R506Q). This point mutation increases factor Va’s resistance towards being degraded by APC, thereby increasing one’s risk for venous thrombosis.<sup>11</sup></p></div>
 
 <figure>
-  <img src="https://imgur.com/P6cRpfQ">
+  <img src="https://i.imgur.com/P6cRpfQ.jpg">
     <figcaption>The anticoagulant effect exerted by the APC system. Thrombomodulin (TM) is able to activate protein C, which subsequently binds to protein S (PS) and inactivates factor Va and factor VIIIa. Note how inhibition of factor Va is reduced when Leiden V mutations are present.<sup>12</sup></figcaption>
 </figure>
 
