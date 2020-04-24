@@ -1,0 +1,44 @@
+---
+layout: single
+title: "<i>F5</i>: The genetic stem of factor V Leiden thrombophilia"
+date: 2020-04-23 01:10:00
+author: Daniel R.
+permalink: "/F5-factor-V-leiden-thrombophilia/"
+author_profile: true
+---
+### Factor V Leiden:
+
+<div style="text-align: justify"><p> First described in 1993 by Dählback et al., factor V Leiden (FVL) is a common autosomal codominant thrombophilia characterized by poor anticoagulant response due to specific mutations in the <i>F5</i> gene which cause activated protein C (APC) resistance.<sup>1,2,3</sup> APC is an endogenous anticoagulant protein which, alongside protein S, typically cleaves and inhibits factors Va and VIIIa (two procoagulant factors, thereby inhibiting further thrombin generation.<sup>4</sup> FVL is the most common hereditary predisposition to venous thrombosis, accounting for roughly 40-50% of familial thrombophilia cases.<sup>5</sup> The prevalence of FVL varies by population, with heterozygosity rates estimated to be 3-8% within those with European ancestry. Meanwhile, homozygosity rates are much lower than heterozygosity rates, and are estimated to be 1/5,000 in Caucasian populations.<sup>3</sup> </p>
+
+<p>There are no clinical features specific to FVL, making its clinical expression quite variable.<sup>3</sup> Many individuals with FVL will never experience a thrombotic event, however, the disease still predisposes them to thrombosis. Various studies suggest that the risk of venous thrombosis is 3- to 7-fold in heterozygous FVL patients, and 80-fold in homozygotes compared to healthy individuals.<sup>6,7</sup> This risk of thrombosis is further modified by other environmental or genetic factors, including pregnancy, protein S deficiency, increasing age, hyperhomocysteinemia, and oral contraceptive use.<sup>2</sup> Despite the increased risk, heterozygosity for FVL has not been associated with increased mortality or a reduction in normal life expectancy.<sup>8,9</sup></p></div>
+
+### A Closer Look Into _F5_:
+
+<div style="text-align: justify"><p>Located at chromosome 1q24.2, <i>F5</i> encodes the factor V protein, which when activated (factor Va), plays a vital role in amplification of the coagulation casacde.<sup>4,10</sup></p>
+
+<p>Typically, APC inhibits factor Va by cleaving conserved arginine (R) residues, specifically R306, R506, and R679. However, in FVL, there is a missense mutation (c.1691G>A) in <i>F5</i>, causing R506 to be replaced with a glutamine residue (R506Q). This point mutation increases factor Va’s resistance towards being degraded by APC, thereby increasing one’s risk for venous thrombosis.<sup>11</sup></p></div>
+
+<figure>
+  <img src="https://imgur.com/P6cRpfQ">
+    <figcaption>The anticoagulant effect exerted by the APC system. Thrombomodulin (TM) is able to activate protein C, which subsequently binds to protein S (PS) and inactivates factor Va and factor VIIIa. Note how inhibition of factor Va is reduced when Leiden V mutations are present.<sup>12</sup></figcaption>
+</figure>
+
+### Treatment:
+
+<div style="text-align: justify"><p>Ultimately, as FVL provides a genetic predisposition to thrombosis, it is the thrombotic events which are managed, the majority of which being venous thromboembolisms (VTEs).<sup>13</sup> However, as data is still lacking to support altering treatment for individuals who had a single occurrence of VTE with or without FVL, as well as the fact that FVL patients only have a minimal increased risk of recurrent VTE compared with to general population, experts suggest that VTE management in FVL patients should align with the guidelines for the general population—where patient history plays a major role in the treatment approach. Specifically, VTEs not provoked by typical risk factors (e.g., surgery, prolonged immobilization, trauma) are traditionally given indefinite anticoagulation therapies, while provoked VTEs only justify finite anticoagulant therapy.<sup>14</sup></p></div>
+
+### References:
+1. Dahlbäck B, Carlsson M, Svensson PJ. Familial thrombophilia due to a previously unrecognized mechanism characterized by poor anticoagulant response to activated protein C: prediction of a cofactor to activated protein C. _Proc Natl Acad Sci USA_. 1993 Feb 1;90(3):1004-8. doi:10.1073/pnas.90.3.1004.
+2. Van Cott EM, Khor B, Zehnder JL. Factor V Leiden. _Am J Hematol_. 2016 Jan;91(1):46-9. doi:10.1002/ajh.24222.
+3. Kujovich JL. Factor V Leiden thrombophilia. _Genet Med_. 2011 Jan;13(1):1-16. doi:10.1097/GIM.0b013e3181faa0f2.
+4. Palta S, Saroa R, Palta A. Overview of the coagulation system. _Indian J Anaesth_. 2014 Sep;58(5):515-23. doi:10.4103/0019-5049.144643.
+5. Svensson PJ, Dahlbäck B. Resistance to activated protein C as a basis for venous thrombosis. _N Engl J Med_. 1994 Feb 24;330(8):517-22. doi:10.1056/NEJM199402243300801.
+6. Ridker PM, Hennekens CH, Lindpaintner K, Stampfer MJ, Eisenberg PR, Miletich JP. Mutation in the gene coding for coagulation factor V and the risk of myocardial infarction, stroke, and venous thrombosis in apparently healthy men. _N Engl J Med_. 1995 Apr 6;332(14):912-7. doi:10.1056/NEJM199504063321403.
+7. Rosendaal FR, Koster T, Vandenbroucke JP, Reitsma PH. High risk of thrombosis in patients homozygous for factor V Leiden (activated protein C resistance). _Blood_. 1995 Mar 15;85(6):1504-8.
+8. Hille ET, Westendorp RG, Vandenbroucke JP, Rosendaal FR. Mortality and causes of death in families with the factor V Leiden mutation (resistance to activated protein C). _Blood_. 1997 Mar 15;89(6):1963-7.
+9. Heijmans BT, Westendorp RG, Knook DL, Kluft C, Slagboom PE. The risk of mortality and the factor V Leiden mutation in a population-based cohort. _Thromb Haemost_. 1998 Oct;80(4):607-9.
+10. Heit JA, Armasu SM, Asmann YW, Cunningham JM, Matsumoto ME, Petterson TM, et al. A genome-wide association study of venous thromboembolism identifies risk variants in chromosomes 1q24.2 and 9q. _J Thromb Haemost_. 2012 Aug;10(8):1521-31. doi:10.1111/j.1538-7836.2012.04810.x.
+11. Bertina RM, Koeleman BP, Koster T, Rosendaal FR, Dirven RJ, de Ronde H, et al. Mutation in blood coagulation factor V associated with resistance to activated protein C. _Nature_. 1994 May 5;369(6475):64-7. doi:10.1038/369064a0.
+12. Turpie AG, Esmon C. Venous and arterial thrombosis - pathogenesis and the rationale for anticoagulation. _Thromb Haemost_. 2011 Apr;105(4):586-96. doi:10.1160/TH10-10-0683.
+13. Campello E, Spiezia L, Simioni P. Diagnosis and management of factor V Leiden. _Expert Rev Hematol_. 2016 Dec;9(12):1139-49. doi:10.1080/17474086.2016.1249364.
+14. Parsons SJ, Olson SR, DeLoughery TG. Inappropriate testing and treatment of factor V Leiden and other heritable thrombophilias. _Am J Med_. 2019 Sep;132(9):e712-3. doi:10.1016/j.amjmed.2019.03.039.

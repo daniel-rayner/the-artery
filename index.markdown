@@ -7,9 +7,21 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/banner-protein.jpg
 feature_row:
+- image_path: /assets/images/homepage/APOB.jpg
+  title: "<i>APOB</i>: The genetic cause of familial hypobetalipoproteinemia"
+  excerpt: "<b>April 23, 2020</b> – First described 1979 by Steinberg et al., familial hypobetalipoproteinemia (FHBL) is an autosomal codominant metabolic disorder predominantly caused by..."
+  url: "/APOB-familial-hypobetalipoproteinemia/"
+  btn_class: "btn--info"
+  btn_label: "Read more"
+- image_path: /assets/images/homepage/FVL.jpg
+  title: "<i>F5</i>: The genetic stem of factor V Leiden thrombophilia"
+  excerpt: "<b>April 23, 2020</b> – First described in 1993 by Dählback et al., factor V Leiden (FVL) is a common autosomal codominant thrombophilia characterized by poor anticoagulant response..."
+  url: "/F5-factor-V-leiden-thrombophilia/"
+  btn_class: "btn--info"
+  btn_label: "Read more"
 - image_path: /assets/images/homepage/HHT.jpg
   title: "<i>ENG</i>: A gene for hereditary hemorrhagic telangiectasia"
-  excerpt: "<b>April 23, 2020</b> – Hereditary hemorrhagic telangiectasia (HHT), also known as Osler-Weber-Rendu syndrome, is an autosomal dominant vascular malformation disorder..."
+  excerpt: "<b>April 22, 2020</b> – Hereditary hemorrhagic telangiectasia (HHT), also known as Osler-Weber-Rendu syndrome, is an autosomal dominant vascular malformation disorder..."
   url: "/ENG-hereditary-hemorrhagic-telangiectasia/"
   btn_class: "btn--info"
   btn_label: "Read more"
