@@ -9,13 +9,13 @@ header:
 feature_row:
 - image_path: /assets/images/homepage/APOB.jpg
   title: "<i>APOB</i>: The genetic cause of familial hypobetalipoproteinemia"
-  excerpt: "<b>April 24, 2020</b> – First described 1979 by Steinberg et al., familial hypobetalipoproteinemia (FHBL) is an autosomal codominant metabolic disorder predominantly caused by..."
+  excerpt: "<b>April 24, 2020</b> – Familial hypobetalipoproteinemia (FHBL) is an autosomal codominant metabolic disorder predominantly caused by mutations in the <i>APOB</i> gene..."
   url: "/APOB-familial-hypobetalipoproteinemia/"
   btn_class: "btn--info"
   btn_label: "Read more"
 - image_path: /assets/images/homepage/FVL.jpg
   title: "<i>F5</i>: The stem of factor V Leiden thrombophilia"
-  excerpt: "<b>April 23, 2020</b> – First described in 1993 by Dählback et al., factor V Leiden (FVL) is a common autosomal codominant thrombophilia characterized by poor anticoagulant..."
+  excerpt: "<b>April 23, 2020</b> – Factor V Leiden (FVL) is a common autosomal codominant thrombophilia characterized by poor anticoagulant response due to specific mutations in..."
   url: "/F5-factor-V-leiden-thrombophilia/"
   btn_class: "btn--info"
   btn_label: "Read more"
