@@ -25,7 +25,7 @@ feature_row:
   btn_label: "Read more"
 - image_path: /assets/images/homepage/CADASIL.jpg
   title: "<i>NOTCH3</i> & CADASIL"
-  excerpt: "<b>April 20, 2020</b> – Cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy..."
+  excerpt: "<b>April 20, 2020</b> – Cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy (CADASIL)..."
   url: "/NOTCH3-cerebral-autosomal-dominant-arteriopathy-with-subcortical-infarcts-and-leukoencephalopathy/"
   btn_class: "btn--primary"
   btn_label: "Read more"
@@ -38,7 +38,7 @@ feature_row:
 - image_path: /assets/images/homepage/MRA_Moya-moya-disease.JPG
   alt: "MMD"
   title: "<i>RNF213</i> & MMD"
-  excerpt: "<b>April 18, 2020</b> – Moyamoya disease (MMD) is a rare chronic occlusive cerebrovascular disease..."
+  excerpt: "<b>April 18, 2020</b> – Moyamoya disease (MMD) is a rare chronic occlusive cerebrovascular disease characterized by the..."
   url: "/RNF213-moyamoya-disease/"
   btn_class: "btn--primary"
   btn_label: "Read more"
