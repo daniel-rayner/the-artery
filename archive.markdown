@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Post Archive"
+title: "Archive"
 permalink: /archive/
 author_profile: true
 author: Daniel R.
