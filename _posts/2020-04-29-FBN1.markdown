@@ -1,0 +1,45 @@
+---
+layout: single
+title: "<i>FBN1</i>: The genetic stem of Marfan syndrome"
+date: 2020-04-29 12:10:00
+author: Daniel R.
+permalink: "/FBN1-marfan-syndrome/"
+author_profile: true
+---
+### Marfan Syndrome:
+
+<div style="text-align: justify"><p>Marfan syndrome (MFS) is an autosomal dominant connective tissue disorder caused by mutations in the <i>FBN1</i> gene.<sup>1,2</sup> It is characterized by cardinal manifestations in the skeletal, cardiovascular, and ocular systems, as well as less common manifestations in the lung, integument, or skeletal muscle.<sup>1</sup> The incidence rate of MFS currently estimated to be 1/5,000, and has been significantly increasing throughout the years.<sup>1,3</sup></p>
+
+<p>The most distinguishable abnormality of MFS is the dysregulated linear bone growth causing severe malformations of the limbs, spine, and anterior chest wall, which frequently result in serious chronic pain. Meanwhile, the major cardiovascular manifestations that present in MFS include thoracic aortic aneurysm, mitral valve prolapse, and cardiac dysfunction. Regarding the eyes, individuals typically experience a displacement of the lens (ectopia lentis) before the age of 20, which can cause blurry vision and nearsightedness. Those with MFS also are at an increased risk of developing early cataracts, retinal detachment, and glaucoma.<sup>4</sup></p>
+
+<p>Less common clinical features of MFS include decreased skeletal muscle mass and tone, recurrent incisional hernias (hernias from incompletely-healed surgical wounds), spontaneous pneumothorax (collapsed lung), and strength marks in region of the skin which are subjected to flexural stress.<sup>4</sup></p></div>
+
+<figure>
+  <img src="https://www.dovepress.com/cr_data/article_fulltext/s60000/60472/img/fig2.jpg">
+    <figcaption>The seven clinical signs of MFS that are often used for targeted screening. The pretest screening procedure assigns various points for each presentation, with total scores indicating low (≤ 1 point), moderate (> 1-3.5 points), or high (> 3.5 points) probabilities of MFS.<sup>5</sup></figcaption>
+</figure>
+
+### A Closer Look Into <i>FBN1</i>:
+
+<div style="text-align: justify"><p>Found at chromosome 15q21.1, <i>FBN1</i> encodes fibrillin-1, the primary component of elastic matrix microfibrils, which play a structural role in the connective tissue of both the musculoskeletal and cardiovascular systems.<sup>2</sup></p>
+
+<p>MFS-related mutations in <i>FBN1</i> are thought to cause a loss-of-function phenotype at the tissue level (i.e., a deficiency of fibrillin-1).<sup>1</sup> Murine models have demonstrated that these deficiencies in fibrillin-1 lead to increased transforming growth factor β (TGF-β), and the increased activation and signalling of TGF-β is hypothesized to be responsible for the various abnormalities in MFS.<sup>7,8</sup> For context, TGF-β is a paracrine regulatory molecule involved in embryonic development, cell growth and apoptosis induction. Moreover, it also stimulates collagen production and extracellular matrix remodeling.<sup>9</sup></p>
+
+<p>This upregulation of TGF-β is responsible for the aforementioned manifestations and features of MFS. The increased collagen production reduces the compliance of the aortic wall, causing it to lose structural integrity and become dilated and aneurysmal. Elevated interstitial concentration of TGF-β is also responsible for reduced muscle mass, as TGF-β hinders the mitosis and differentiation of satellite cells crucial to the development of muscle fibres. Moreover, these high levels of TGF-β inhibit the fusion of satellite cells and the subsequent signalling of endogenous bone morphogenetic protein 2 (BMP2) in human stem cells, which is vital for bone and cartilage development. These dysregulated TGF-β-BMP2 interactions are thought to be responsible for the tall stature of MFS patients and other MFS features.<sup>9</sup></p></div>
+
+### Management:
+
+<div style="text-align: justify"><p>As MFS presents with abnormalities involving various bodily systems, the management and treatment of the pathology require a multidisciplinary approach. β blockers (e.g., propranolol, atenolol, metoprolol) are frequently administered for MFS patients with aortic dilatations. When the diameter of their aortic sinus becomes too large, individuals with MFS typically undergo prophylactic aortic root surgery.<sup>10</sup> Meanwhile, prophylactic vitreolensectomies have been shown to be effective in preventing retinal detachment in some patients.<sup>11</sup> All of these treatments are paired with frequent cardiac and ophthalmology assessments to identify any progression of malformations.<sup>10,11</sup></p></div>
+
+### References:
+1. Ramirez F, Caescu C, Wondimu E, Galatioto J. Marfan syndrome: A connective tissue disease at the crossroads of mechanotransduction, TGFβ signaling and cell stemness. _Matrix Biol_. 2018 Oct;71-72:82-89. doi:10.1016/j.matbio.2017.07.004.
+2. Bitterman AD, Sponseller PD. Marfan syndrome: A clinical update. _J Am Acad Orthop Surg_. 2017 Sep;25(9):603-9. doi:10.5435/JAAOS-D-16-00143.
+3. Groth KA, Hove H, Kyhl K, Folkestad L, Gaustadnes M, Vejlstrup N, et al. Prevalence, incidence, and age at diagnosis in Marfan syndrome. _Orphanet J Rare Dis_. 2015 Dec 2;10:153. doi:10.1186/s13023-015-0369-8.
+4. Doyle JJ, Gerber EE, Dietz HC. Matrix-dependent perturbation of TGFβ signaling and disease. _FEBS Lett_. 2012 Jul 4;586(14):2003-15. doi:10.1016/j.febslet.2012.05.027.
+5. von Kodolitsch Y, De Backer J, Schüler H, Bannas P, Behzadi C, Bernhardt AM, et al. Perspectives on the revised Ghent criteria for the diagnosis of Marfan syndrome. _Appl Clin Genet_. 2015 Jun 16;8:137-55. doi:10.2147/TACG.S60472.
+6. Dordoni C, Ciaccio C, Santoro G, Venturini M, Cavallari U, Ritelli M, et al. Marfan syndrome: Report of a complex phenotype due to a 15q21.1 contiguos gene deletion encompassing FBN1, and literature review. _Am J Med Genet A_. 2017 Jan;173(1):200-6. doi:10.1002/ajmg.a.37975.
+7. Dietz HC. TGF-beta in the pathogenesis and prevention of disease: A matter of aneurysmic proportions. _J Clin Invest_. 2010 Feb;120(2):403-7. doi:10.1172/JCI42014.
+8. Lindsay ME, Dietz HC. Lessons on the pathogenesis of aneurysm from heritable conditions. _Nature_. 2011 May 19;473(7347):308-16. doi:10.1038/nature10145.
+9. Benke K, Ágg B, Szilveszter B, Tarr F, Nagy ZB, Pólos M, et al. The role of transforming growth factor-beta in Marfan syndrome. _Cardiol J_. 2013;20(3):227-34. doi:10.5603/CJ.2013.0066.
+10. Dean JC. Management of Marfan syndrome. _Heart_. 2002 Jul;88(1):97-103. doi:10.1136/heart.88.1.97.
+11. Dean JC. Marfan syndrome: Clinical diagnosis and management. _Eur J Hum Genet_. 2007 Jul;15(7):724-33. doi:10.1038/sj.ejhg.5201851.

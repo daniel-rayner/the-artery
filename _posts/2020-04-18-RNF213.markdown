@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "<i>RNF213</i>: A susceptibility gene for Moyamoya disease"
+title: "<i>RNF213</i>: A susceptibility gene for moyamoya disease"
 date: 2020-04-18 12:19:28
 author: Daniel R.
 permalink: "/RNF213-moyamoya-disease/"

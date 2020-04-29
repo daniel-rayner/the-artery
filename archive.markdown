@@ -5,6 +5,12 @@ permalink: /archive/
 author_profile: true
 author: Daniel R.
 feature_row:
+- image_path: /assets/images/homepage/FBN1.png
+  title: "<i>FBN1</i> & MFS"
+  excerpt: "<b>April 29, 2020</b> – Marfan syndrome (MFS) is an autosomal dominant connective tissue disorder caused by..."
+  url: "/FBN1-marfan-syndrome/"
+  btn_class: "btn--primary"
+  btn_label: "Read more"
 - image_path: /assets/images/homepage/APOB.jpg
   title: "<i>APOB</i> & FHBL"
   excerpt: "<b>April 24, 2020</b> – Familial hypobetalipoproteinemia (FHBL) is an autosomal codominant metabolic disorder..."

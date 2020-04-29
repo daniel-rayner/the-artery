@@ -7,6 +7,12 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/banner-protein.jpg
 feature_row:
+- image_path: /assets/images/homepage/FBN1.png
+  title: "<i>FBN1</i>: The genetic stem of Marfan syndrome"
+  excerpt: "<b>April 29, 2020</b> – Marfan syndrome (MFS) is an autosomal dominant connective tissue disorder caused by mutations in the <i>FBN1</i> gene. It is characterized by..."
+  url: "/FBN1-marfan-syndrome/"
+  btn_class: "btn--info"
+  btn_label: "Read more"
 - image_path: /assets/images/homepage/APOB.jpg
   title: "<i>APOB</i>: The genetic cause of familial hypobetalipoproteinemia"
   excerpt: "<b>April 24, 2020</b> – Familial hypobetalipoproteinemia (FHBL) is an autosomal codominant metabolic disorder predominantly caused by mutations in the <i>APOB</i> gene..."
@@ -35,13 +41,6 @@ feature_row:
   title: "<i>LDLR</i>: An important player in familial hypercholesterolemia"
   excerpt: "<b>April 19, 2020</b> – Familial hypercholesterolemia (FH) is an lipoprotein metabolism genetic disorder characterized by severely elevated plasma cholesterol levels..."
   url: "/LDLR-familial-hypercholesterolemia/"
-  btn_class: "btn--info"
-  btn_label: "Read more"
-- image_path: /assets/images/homepage/MRA_Moya-moya-disease.JPG
-  alt: "MMD"
-  title: "<i>RNF213</i>: A susceptibility gene for moyamoya disease"
-  excerpt: "<b>April 18, 2020</b> – Moyamoya disease (MMD) is a rare chronic occlusive cerebrovascular disease characterized by the progressive stenosis of the arteries of the Circle of Willis..."
-  url: "/RNF213-moyamoya-disease/"
   btn_class: "btn--info"
   btn_label: "Read more"
 ---
