@@ -7,7 +7,7 @@ author: Daniel R.
 feature_row:
 - image_path: /assets/images/homepage/FBN1.png
   title: "<i>FBN1</i> & MFS"
-  excerpt: "<b>April 29, 2020</b> – Marfan syndrome (MFS) is an autosomal dominant connective tissue disorder caused by..."
+  excerpt: "<b>April 29, 2020</b> – Marfan syndrome (MFS) is an autosomal dominant connective tissue disorder caused by mutations in..."
   url: "/FBN1-marfan-syndrome/"
   btn_class: "btn--primary"
   btn_label: "Read more"
