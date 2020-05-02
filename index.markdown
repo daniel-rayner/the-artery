@@ -9,7 +9,7 @@ header:
 feature_row:
 - image_path: /assets/images/homepage/FBN1.png
   title: "<i>FBN1</i>: The genetic stem of Marfan syndrome"
-  excerpt: "<b>April 29, 2020</b> – Marfan syndrome (MFS) is an autosomal dominant connective tissue disorder caused by mutations in the <i>FBN1</i> gene. It is characterized by cardinal..."
+  excerpt: "<b>May 1, 2020</b> – Marfan syndrome (MFS) is an autosomal dominant connective tissue disorder caused by mutations in the <i>FBN1</i> gene. It is characterized by cardinal..."
   url: "/FBN1-marfan-syndrome/"
   btn_class: "btn--info"
   btn_label: "Read more"
