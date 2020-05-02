@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "<i>FBN1</i>: The genetic stem of Marfan syndrome"
-date: 2020-04-29 12:10:00
+date: 2020-05-01 12:10:00
 author: Daniel R.
 permalink: "/FBN1-marfan-syndrome/"
 author_profile: true
