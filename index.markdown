@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/banner-protein.jpg
 feature_row:
 - image_path: /assets/images/homepage/vEDS.jpg
-  title: "<i>COL3A1</i>: The main gene of vascular Ehlers-Danlos syndrome"
+  title: "<i>COL3A1</i>: The main gene for vascular Ehlers-Danlos syndrome"
   excerpt: "<b>May 7, 2020</b> – Vascular Ehlers-Danlos syndrome (vEDS), also known as Ehlers-Danlos syndrome type IV, is a hereditary connective tissue disorder caused predominantly..."
   url: "/COL3A1-vascular-ehlers-danlos-syndrome/"
   btn_class: "btn--info"
