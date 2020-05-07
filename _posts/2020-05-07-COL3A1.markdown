@@ -1,0 +1,49 @@
+---
+layout: single
+title: "<i>COL3A1</i>: The predominant cause of vascular Ehlers-Danlos syndrome"
+date: 2020-05-07 12:10:00
+author: Daniel R.
+permalink: "/COL3A1-vascular-ehlers-danlos-syndrome/"
+author_profile: true
+---
+### Vascular Ehlers-Danlos Syndrome:
+
+<div style="text-align: justify"><p>Vascular Ehlers-Danlos syndrome (vEDS), also known as Ehlers-Danlos syndrome type IV, is a hereditary connective tissue disorder caused predominantly by mutations in the <i>COL3A1</i> gene.<sup>1</sup> It is characterized by acrogeria (premature aging of the extremities), as well as an predisposition towards uterine, vascular, and digestive ruptures.<sup>2</sup> Interestingly, although vEDS is thought to be an autosomal dominant disorder, roughly half of affected individuals report no family history, suggesting that they develop the disease through <i>de novo</i> mutations.<sup>3</sup> The prevalence of vEDS is estimated to be between 1/50,000 and 1/250,000, and contributes to roughly 5% of all cases of EDS.<sup>2,4</sup></p>
+
+<p>Up to 7% of vEDS patients experience their first major event by age 20, increasing up to 40% by age 40.<sup>5</sup> These events are typically arterial in nature, with 24 of 31 vEDS patients (77%) developing a total of 132 vascular complications during a 30-year Mayo Clinic study. These events include aneurysm formation, dissection, and the rupturing of medium-sized abdominal vessels (i.e., renal, iliac, femoral, mesenteric, and hepatic arteries, and/or the abdominal aorta).<sup>4,6</sup> Additionally, albeit much less commonly, coronary artery dissection, carotid-cavernous fistula, mitral valve prolapse, and spontaneous rupture of the heart have been observed in vEDS patients.<sup>4</sup></p></div>
+
+<figure>
+  <img src="https://marlin-prod.literatumonline.com/cms/attachment/4c4e196f-17db-4758-a6b1-dc88fab3333b/gr2_lrg.jpg">
+    <figcaption>The imaging of a wide spectrum of vEDS complications, including (A) spontaneous inferior epigastric artery rupture, (B) spontaneous hepatic hematoma, (C) ectatic and dissected celiac axis with concomitant ruptured splenic vein aneurysm, and (D) ruptured ileocolic artery pseudoaneurysm.<sup>6</sup></figcaption>
+</figure>
+
+<div style="text-align: justify"><p>Non-arterial complications also occur in vEDS patients, with 25% of patients experiencing gastrointestinal events, the majority of which being spontaneous rupturing of the sigmoid colon.<sup>5,6</sup> Less common systemic complications include abdominal wall hernias, spontaneous major joint dislocations, pneumothoraces, and lens dislocations. However, in the majority of vEDS cases, the cause of death is related to vascular complications.<sup>6</sup></p>
+
+### An In-Depth Look Into <i>COL3A1</i>
+
+<div style="text-align: justify"><p>Located at chromosome 2q31, <i>COL3A1</i> codes for pro-α1 (III) chains, which assemble the tightly folded triple helices found in type III collagen. A structural prerequisite for the formation of these helices are glycine residues in every third position of the polypeptide chains, resulting in a pattern of (Gly-X-Y)<sub>n</sub>.<sup>4</sup></p></div>
+
+<figure>
+  <img src="https://marlin-prod.literatumonline.com/cms/attachment/72c04395-3e1c-4ac2-b717-57d100ff730a/gr1_lrg.jpg">
+    <figcaption>The basic steps of type III collagen production. The components of type III collagen, called pro-α1 (III) chains, are produced from the <i>COL3A1</i> gene, and fold into a triple helix. The repeating (Gly-X-Y) sequences in each chain are a prerequisite for their assembly. These triple helices are densely packed and processed extracellularly to create long, thin collagen fibrils.<sup>4</sup></figcaption>
+</figure>
+
+<div style="text-align: justify"><p>However, in vEDS patients, mutations disrupt this normal repeating sequence (Gly-X-Y) in one of the three monomers, which results in the production of nonfunctional type III collagen.<sup>4</sup> As of 2016, more than 700 unique <i>COL3A1</i> mutations have been identified, the majority of which being missense mutations which cause substitutions in the glycine residues.<sup>7,8</sup></p>
+
+<p>The clinical manifestations of vEDS are closely linked to deficiencies of type III collagen, as it is an important constituent of both gastrointestinal tract and arterial walls. These deficiencies compromise the structural integrity of the walls and ultimately cause the arterial tears and digestive perforations characteristic of vEDS.<sup>2</sup></p></div>
+
+### Management:
+
+<div style="text-align: justify"><p>As vEDS presents with an increased susceptibility towards adverse vascular and gastrointestinal events, the main goal of medical management is to minimize their likelihood of occurrence. The typical approach towards vEDS management involves the avoidance of particular physical activities, the creation of an informed care team, and the management of ordinary medical conditions which increase the risk of those with vEDS.<sup>1</sup></p>
+
+<p>Specifically, collision sports and activities that involve rapid acceleration/deceleration are discouraged as they can lead to vascular rupture and dissection, respectively. Additionally, given the rarity of vEDS, physicians outside of medical geneticists, vascular surgeons, and cardiologists most likely know very little about the disease. As a result, when diagnosed, affected patients are referred to a center with substantial experience and expertise in vEDS. Finally, to maintain blood pressure, patients are often given antihypertensive medications (e.g., diuretics, β-blockers) to minimize the likelihood of arterial rupture or dissection.<sup>1</sup></p></div>
+
+### References:
+1. Byers PH, Belmont J, Black J, De Backer J, Frank M, Jeunemaitre X, et al. Diagnosis, natural history, and management in vascular Ehlers-Danlos syndrome. _Am J Med Genet C Semin Med Genet_. 2017 Mar;175(1):40-7. doi:10.1002/ajmg.c.31553.
+2. Germain DP. Ehlers-Danlos syndrome type IV. _Orphanet J Rare Dis_. 2007 Jul 19;2:32. doi:10.1186/1750-1172-2-32.
+3. Watanabe A, Kosho T, Wada T, Sakai N, Fujimoto M, Fukushima Y, et al. Genetic aspects of the vascular type of Ehlers-Danlos syndrome (vEDS, EDSIV) in Japan. _Circ J_. 2007 Feb;71(2):261-5. doi:10.1253/circj.71.261.
+4. Eagleton MJ. Arterial complications of vascular Ehlers-Danlos syndrome. _J Vasc Surg_. 2016 Dec;64(6):1869-80. doi:10.1016/j.jvs.2016.06.120.
+5. Malfait F, De Paepe A. The Ehlers-Danlos syndrome. _Adv Exp Med Biol_. 2014;802:129-43. doi:10.1007/978-94-007-7893-1_9.
+6. Oderich GS, Panneton JM, Bower TC, Lindor NM, Cherry KJ, Noel AA, et al. The spectrum, management and clinical outcome of Ehlers-Danlos syndrome type IV: A 30-year experience. _J Vasc Surg_. 2005 Jul;42(1):98-106. doi:10.1016/j.jvs.2005.03.053.
+7. Dalgleish R. The human type I collagen mutation database. _Nucleic Acids Res_. 1997 Jan 1;25(1):181-7. doi:10.1093/nar/25.1.181.
+8. Pepin M, Schwarze U, Superti-Furga A, Byers PH. Clinical and genetic features of Ehlers-Danlos syndrome type IV, the vascular type. _N Engl J Med_. 2000 Mar 9;342(10):673-80. doi:10.1056/NEJM200003093421001.

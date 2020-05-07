@@ -7,6 +7,12 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/banner-protein.jpg
 feature_row:
+-image_path: /assets/images/homepage/vEDS.jpg
+  title: "<i>COL3A1</i>: The predominant cause of vascular Ehlers-Danlos syndrome"
+  excerpt: "<b>May 7, 2020</b> – Vascular Ehlers-Danlos syndrome (vEDS), also known as Ehlers-Danlos syndrome type IV, is a hereditary connective tissue disorder caused predominantly..."
+  url: "/COL3A1-vascular-ehlers-danlos-syndrome/"
+  btn_class: "btn--info"
+  btn_label: "Read more"
 - image_path: /assets/images/homepage/FBN1.png
   title: "<i>FBN1</i>: The genetic stem of Marfan syndrome"
   excerpt: "<b>May 1, 2020</b> – Marfan syndrome (MFS) is an autosomal dominant connective tissue disorder caused by mutations in the <i>FBN1</i> gene. It is characterized by cardinal..."
@@ -35,12 +41,6 @@ feature_row:
   title: "<i>NOTCH3</i>: The cause of CADASIL, a small-vessel angiopathy"
   excerpt: "<b>April 20, 2020</b> – Cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy (CADASIL) is a rare hereditary small-vessel angiopathy..."
   url: "/NOTCH3-cerebral-autosomal-dominant-arteriopathy-with-subcortical-infarcts-and-leukoencephalopathy/"
-  btn_class: "btn--info"
-  btn_label: "Read more"
-- image_path: /assets/images/homepage/LDLR-cholesterol.jpg
-  title: "<i>LDLR</i>: An important player in familial hypercholesterolemia"
-  excerpt: "<b>April 19, 2020</b> – Familial hypercholesterolemia (FH) is an lipoprotein metabolism genetic disorder characterized by severely elevated plasma cholesterol levels..."
-  url: "/LDLR-familial-hypercholesterolemia/"
   btn_class: "btn--info"
   btn_label: "Read more"
 ---

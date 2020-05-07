@@ -5,6 +5,12 @@ permalink: /archive/
 author_profile: true
 author: Daniel R.
 feature_row:
+- image_path: /assets/images/homepage/vEDS.jpg
+  title: "<i>COL3A1</i> & vEDS"
+  excerpt: "<b>May 7, 2020</b> – Vascular Ehlers-Danlos syndrome (vEDS), also known as Ehlers-Danlos syndrome type IV, is a hereditary..."
+  url: "/COL3A1-vascular-ehlers-danlos-syndrome/"
+  btn_class: "btn--primary"
+  btn_label: "Read more"
 - image_path: /assets/images/homepage/FBN1.png
   title: "<i>FBN1</i> & MFS"
   excerpt: "<b>April 29, 2020</b> – Marfan syndrome (MFS) is an autosomal dominant connective tissue disorder caused by mutations in..."
