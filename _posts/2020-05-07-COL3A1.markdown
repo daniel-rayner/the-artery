@@ -17,7 +17,7 @@ author_profile: true
     <figcaption>The imaging of a wide spectrum of vEDS complications, including (A) spontaneous inferior epigastric artery rupture, (B) spontaneous hepatic hematoma, (C) ectatic and dissected celiac axis with concomitant ruptured splenic vein aneurysm, and (D) ruptured ileocolic artery pseudoaneurysm.<sup>6</sup></figcaption>
 </figure>
 
-<div style="text-align: justify"><p>Non-arterial complications also occur in vEDS patients, with 25% of patients experiencing gastrointestinal events, the majority of which being spontaneous rupturing of the sigmoid colon.<sup>5,6</sup> Less common systemic complications include abdominal wall hernias, spontaneous major joint dislocations, pneumothoraces, and lens dislocations. However, in the majority of vEDS cases, the cause of death is related to vascular complications.<sup>6</sup></p>
+<div style="text-align: justify"><p>Non-arterial complications also occur in vEDS patients, with 25% of patients experiencing gastrointestinal events, the majority of which being spontaneous rupturing of the sigmoid colon.<sup>5,6</sup> Less common systemic complications include abdominal wall hernias, spontaneous major joint dislocations, pneumothoraces, and lens dislocations. However, in the majority of vEDS cases, the cause of death is related to vascular complications.<sup>6</sup></p></div>
 
 ### An In-Depth Look Into <i>COL3A1</i>
 
