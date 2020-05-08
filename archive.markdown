@@ -7,7 +7,7 @@ author: Daniel R.
 feature_row:
 - image_path: /assets/images/homepage/vEDS.jpg
   title: "<i>COL3A1</i> & vEDS"
-  excerpt: "<b>May 7, 2020</b> – Vascular Ehlers-Danlos syndrome (vEDS), also known as Ehlers-Danlos syndrome type IV, is a hereditary..."
+  excerpt: "<b>May 8, 2020</b> – Vascular Ehlers-Danlos syndrome (vEDS), also known as Ehlers-Danlos syndrome type IV, is a hereditary..."
   url: "/COL3A1-vascular-ehlers-danlos-syndrome/"
   btn_class: "btn--primary"
   btn_label: "Read more"
