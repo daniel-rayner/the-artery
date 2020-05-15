@@ -17,6 +17,7 @@ author_profile: true
 
 <div style="text-align: justify"><p>The clinical features of cvEDS can be split into major and minor presentations as defined by the 2017 EDS international classifications. The majority of cvEDS patients present with severe progressive cardiac valvular complications (aortic and mitral valve disorders), skin hyperextensibility (accompanied by atrophic scars, thin skin,and easy bruising), and joint hypermobility. However, inguinal hernias, pectus deformities, joint dislocations, as well as foot deformities have been observed in those with cvEDS.<sup>5</sup></p></div>
 
+#### Phenotype comparison of all known patients with molecularly confirmed cvEDS<sup>1</sup>
 | Feature                   | Patient 1              | Patient 2                | Patient 3           | Patient 4              | Patient 5              | Patient 6              |
 | -------                   | ---------              | ---------                | ---------           | ---------              | ---------              | ---------              |
 | 'Origin'                  | NA	                   | Japan (?)                |	NA                  | Portugal               | Italy                  | Italy                  |
@@ -51,6 +52,7 @@ author_profile: true
 <p>This evidence suggests that different molecular mechanisms are thought to cause a variety of phenotypes in recessive <i>COL1A2</i> variants. In fact, researchers have noticed that variants which cause nonsense‐mediated mRNA decay are associated with either cvEDS or progressively deforming OI, dominant negative missense variants with progressively deforming OI, and splicing variants with OI/EDS overlap. It is hypothesized that both the proportion of normal α1 homotrimers versus abnormal heterotrimers and their differential distribution among the different tissues are two post‐translational factors influencing the eventual phenotype. Additionally, some clinical variability may be attributed to the intracellular accumulation of pro-α2 chains from nucleotide changes allowing the translation of some mutant proteins, which do trimerize, but accumulate intracellularly.<sup>1</sup> Ultimately, given cvEDS rarity, more cases must be identified and more functional studies must be performed to determine the exact linkage between cvEDS and OI.</p></div>
 
 ### References:
+
 1. Guarnieri V, Morlino S, Di Stolfo G, Mastroianno S, Mazza T, Castori M. Cardiac valvular Ehlers-Danlos syndrome is a well-defined condition due to recessive null variants in COL1A2. _Am J Med Genet A_. 2019 May;179(5):846-51. doi:10.1002/ajmg.a.61100.
 2. Kojima T, Shinkai H, Fujita M, Morita E, Okamoto S. Case report and study of collagen metabolism in Ehlers-Danlos syndrome type II. _J Dermatol_. 1988 Apr;15(2):155-60. doi:10.1111/j.1346-8138.1988.tb03668.x.
 3. Schwarze U, Hata R, McKusick VA, Shinkai H, Hoyme HE, Pyeritz RE, et al. Rare autosomal recessive cardiac valvular form of Ehlers-Danlos syndrome results from mutations in the COL1A2 gene that activate the nonsense-mediated RNA decay pathway. _Am J Hum Genet_. 2004 May;74(5):917-30. doi:10.1086/420794.
