@@ -17,6 +17,7 @@ author_profile: true
 
 <div style="text-align: justify"><p>The clinical features of cvEDS can be split into major and minor presentations as defined by the 2017 EDS international classifications. The majority of cvEDS patients present with severe progressive cardiac valvular complications (aortic and mitral valve disorders), skin hyperextensibility (accompanied by atrophic scars, thin skin,and easy bruising), and joint hypermobility. However, inguinal hernias, pectus deformities, joint dislocations, as well as foot deformities have been observed in those with cvEDS.<sup>5</sup></p></div>
 
+<div class="datatable-begin"></div>
 | Feature | Patient 1 | Patient 2 | Patient 3 | Patient 4 | Patient 5 | Patient 6 |
 | ------- | --------- | --------- | --------- | --------- | --------- | --------- |
 | 'Origin' | NA	| Japan (?) |	NA | Portugal | Italy | Italy |
@@ -41,6 +42,7 @@ author_profile: true
 | 'Pulmonary insufficiency' | - | - | - | - | + (mild) | - |
 | 'Aortic insufficiency' | + (moderate)	| − |	+ (severe) | − | − | − |
 | 'Other' | Death at 45 years for cardiac disease	| Mitral valve replacement | Mitral and aortic valve replacement; Atrial septal defect ostium secundum	| Mitral valve bulging; pyloric stenosis |	Hypoplastic interphalangeal creases	| Hypoplastic interphalangeal creases; finger pads; short stature; <i>GLUT1</i> variant |
+<div class="datatable-end"></div>
 
 ### A Brief Review of <i>COL1A2</i>:
 
