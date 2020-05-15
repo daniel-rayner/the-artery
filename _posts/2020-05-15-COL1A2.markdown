@@ -8,7 +8,7 @@ author_profile: true
 ---
 ### Cardiac Valvular Ehlers‐Danlos Syndrome:
 
-<div style="text-align: justify"><p>Cardiac valvular Ehlers‐Danlos syndrome (cvEDS) is an ultra-rare EDS subtype caused by particular recessive variants in the <i>COL1A2</i> gene, and is characterized by joint hypermobility, and cutaneous involvement, as well as cardiac valvular disease (CVD).<sup>1</sup> As an ultra-rare disorder, its presence in the literature is limited, with only six molecularly confirmed cvEDS patients being published to date.<sup>1-4</sup></p>
+<div style="text-align: justify"><p>Cardiac valvular Ehlers‐Danlos syndrome (cvEDS) is an ultra-rare EDS subtype caused by particular recessive variants in the <i>COL1A2</i> gene, and is characterized by joint hypermobility, and cutaneous involvement, as well as cardiac valvular disease (CVD).<sup>1</sup> As an ultra-rare disorder, its presence in the literature is limited, with only six molecularly confirmed cvEDS patients being published to date.<sup>1-4</sup></p></div>
 
 <figure>
   <img src="https://onlinelibrary.wiley.com/cms/asset/efad5144-2248-4e44-b931-acd569d21391/ajmga61100-fig-0001-m.jpg">
