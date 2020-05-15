@@ -21,27 +21,27 @@ author_profile: true
 
 | Feature                   | Patient 1<sup>3</sup>  | Patient 2<sup>2,3</sup>  | Patient 3<sup>3</sup>| Patient 4<sup>4</sup>  | Patient 5<sup>1</sup>  | Patient 6<sup>1</sup>  |
 | -------                   | ---------              | ---------                | ---------            | ---------              | ---------              | ---------              |
-| <b>Origin</b>                    | N/A                    | Japan (?)                |	N/A                  | Portugal               | Italy                  | Italy                  |
-| <b>Sex</b>                       | M                      | M                        | M                    | M                      | F                      | F                      |
-| <b>Age</b>                       | 45                     | 65	                      | 30                   | 6                      | 24                     | 12                     |
-| <b>Variant</b>                   | c.540+5G>A/c.1404+1G>C | c.70+717A>G/c.1404+1G>C  | c.3601G>T/c.3601G>T  | c.292dupC/c.292dupC    | c.3601G>T/c.3601G>T    | c.3601G>T/c.3601G>T    |
-| <b>Joint hypermobility</b>       | + (small joints)       | + (small > large joints) |	+ (generalized)      | + (Beighton score 6/9) | + (Beighton score 6/9) | + (Beighton score 6/8) |
-| <b>Recurrent dislocations</b>    | + (shoulders)          | -                        | -                    | -                      | -                      | -                      |
-| <b>Genua recurvate</b>           | -                      | -                        | +                    | +                      | +                      | +                      |
-| <b>Pectus exacavatum</b>         | +                      | -                        | -                    | -                      | -                      | +                      |
-| <b>Scoliosis</b>                 | -                      | -                        | -                    | -                      | +                      | -                      |
-| <b>Pes planus</b>                | -                      | -                        | +                    | +                      | +                      | +                      |
-| <b>Long fingers</b>              | -                      | -                        | -                    | +                      | -                      | +                      |
-| <b>Hallux valgus</b>             | -                      | -                        | -                    | +                      | +                      | -                      |
-| <b>Skin hyperextensibility</b>   | +                      | +                        | +                    | + (moderate)           | + (mild)               | + (mild)               |
-| <b>Thin/soft/doughy skin</b>     | +                      | -	                      | +	                   | -	                    | +                      | +                      |
-| <b>Atrophic scarring</b>         | +                      | +	                      | -	                   | -	                    | + (mild)               | -                      |
-| <b>Easy bruising</b>             | +                      | +                        | +                    | -                      | -                      | -                      |
-| <b>Inguinal hernia</b>           | + (bilateral)          | -	                      | + (bilateral)        | + (bilateral)	        | -                      | -                      |
-| <b>Mitral insufficiency</b>      | + (severe)             | + (severe ?)             | + (significant)      | -                      | + (moderate to severe)    | + (mild)               |
-| <b>Tricuspid insufficiency</b>   | -                      | -                        | -                    | -                      | + (mild)               | + (mild)               |
-| <b>Pulmonary insufficiency</b>   | -                      | -                        | -                    | -                      | + (mild)               | -                      |
-| <b>Aortic insufficiency</b>      | + (moderate)	         | -                        |	+ (severe)           | -                      | -                      | -                      |
+| <i>Origin</i>                    | N/A                    | Japan (?)                |	N/A                  | Portugal               | Italy                  | Italy                  |
+| <i>Sex</i>                       | M                      | M                        | M                    | M                      | F                      | F                      |
+| <i>Age</i>                       | 45                     | 65	                      | 30                   | 6                      | 24                     | 12                     |
+| <i>Variant</i>                   | c.540+5G>A/c.1404+1G>C | c.70+717A>G/c.1404+1G>C  | c.3601G>T/c.3601G>T  | c.292dupC/c.292dupC    | c.3601G>T/c.3601G>T    | c.3601G>T/c.3601G>T    |
+| <i>Joint hypermobility</i>       | + (small joints)       | + (small > large joints) |	+ (generalized)      | + (Beighton score 6/9) | + (Beighton score 6/9) | + (Beighton score 6/8) |
+| <i>Recurrent dislocations</i>    | + (shoulders)          | -                        | -                    | -                      | -                      | -                      |
+| <i>Genua recurvate</i>          | -                      | -                        | +                    | +                      | +                      | +                      |
+| <i>Pectus exacavatum</i>         | +                      | -                        | -                    | -                      | -                      | +                      |
+| <i>Scoliosis</i>                 | -                      | -                        | -                    | -                      | +                      | -                      |
+| <i>Pes planus</i>                | -                      | -                        | +                    | +                      | +                      | +                      |
+| <i>Long fingers</i>              | -                      | -                        | -                    | +                      | -                      | +                      |
+| <i>Hallux valgus</i>             | -                      | -                        | -                    | +                      | +                      | -                      |
+| <i>Skin hyperextensibility</i>   | +                      | +                        | +                    | + (moderate)           | + (mild)               | + (mild)               |
+| <i>Thin/soft/doughy skin</i>     | +                      | -	                      | +	                   | -	                    | +                      | +                      |
+| <i>Atrophic scarring</i>         | +                      | +	                      | -	                   | -	                    | + (mild)               | -                      |
+| <i>Easy bruising</i>             | +                      | +                        | +                    | -                      | -                      | -                      |
+| <i>Inguinal hernia</i>           | + (bilateral)          | -	                      | + (bilateral)        | + (bilateral)	        | -                      | -                      |
+| <i>Mitral insufficiency</i>      | + (severe)             | + (severe ?)             | + (significant)      | -                      | + (moderate to severe)    | + (mild)               |
+| <i>Tricuspid insufficiency</i>   | -                      | -                        | -                    | -                      | + (mild)               | + (mild)               |
+| <i>Pulmonary insufficiency</i>   | -                      | -                        | -                    | -                      | + (mild)               | -                      |
+| <i>Aortic insufficiency</i>      | + (moderate)	         | -                        |	+ (severe)           | -                      | -                      | -                      |
 
 
 ### A Brief Review of <i>COL1A2</i>:
