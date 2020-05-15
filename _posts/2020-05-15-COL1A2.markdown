@@ -38,7 +38,7 @@ author_profile: true
 | <b>Atrophic scarring</b>         | +                      | +	                      | -	                   | -	                    | + (mild)               | -                      |
 | <b>Easy bruising</b>             | +                      | +                        | +                    | -                      | -                      | -                      |
 | <b>Inguinal hernia</b>           | + (bilateral)          | -	                      | + (bilateral)        | + (bilateral)	        | -                      | -                      |
-| <b>Mitral insufficiency</b>      | + (severe)             | + (severe ?)             | + (significant)      | -                      | + (moderate–severe)    | + (mild)               |
+| <b>Mitral insufficiency</b>      | + (severe)             | + (severe ?)             | + (significant)      | -                      | + (moderate to severe)    | + (mild)               |
 | <b>Tricuspid insufficiency</b>   | -                      | -                        | -                    | -                      | + (mild)               | + (mild)               |
 | <b>Pulmonary insufficiency</b>   | -                      | -                        | -                    | -                      | + (mild)               | -                      |
 | <b>Aortic insufficiency</b>      | + (moderate)	         | -                        |	+ (severe)           | -                      | -                      | -                      |
