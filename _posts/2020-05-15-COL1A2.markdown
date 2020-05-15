@@ -17,31 +17,31 @@ author_profile: true
 
 <div style="text-align: justify"><p>The clinical features of cvEDS can be split into major and minor presentations as defined by the 2017 EDS international classifications. The majority of cvEDS patients present with severe progressive cardiac valvular complications (aortic and mitral valve disorders), skin hyperextensibility (accompanied by atrophic scars, thin skin,and easy bruising), and joint hypermobility. However, inguinal hernias, pectus deformities, joint dislocations, as well as foot deformities have been observed in those with cvEDS.<sup>5</sup></p></div>
 
-#### Phenotype comparison of all known patients with molecularly confirmed cvEDS<sup>1</sup>:
+#### Phenotype Comparison of All Known Molecularly Confirmed cvEDS Patients:
 
-| Feature                   | Patient 1              | Patient 2                | Patient 3           | Patient 4              | Patient 5              | Patient 6              |
-| -------                   | ---------              | ---------                | ---------           | ---------              | ---------              | ---------              |
-| Origin                    | NA	                   | Japan (?)                |	NA                  | Portugal               | Italy                  | Italy                  |
-| Sex                       | M                      | M                        | M                   | M                      | F                      | F                      |
-| Age                       | 45                     | 65	                      | 30                  | 6                      | 24                     |	12                     |
-| Variant                   | c.540+5G>A/c.1404+1G>C | c.70+717A>G/c.1404+1G>C  | c.3601G>T/c.3601G>T | c.292dupC/c.292dupC    | c.3601G>T/c.3601G>T    | c.3601G>T/c.3601G>T    |
-| Joint hypermobility       | + (small joints)       | + (small > large joints) |	+ (generalized)     |	+ (Beighton score 6/9) | + (Beighton score 6/9)	| + (Beighton score 6/8) |
-| Recurrent dislocations    | + (shoulders)          | -                        | -                   | -                      | -                      | -                      |
-| Genua recurvate           | -                      | -                        | +                   | +                      | +                      | +                      |
-| Pectus exacavatum         | +                      | -                        | -                   | -                      | -                      | +                      |
-| Scoliosis                 | -                      | -                        | -                   | -                      | +                      | -                      |
-| Pes planus                | -                      | -                        | +                   | +                      | +                      | +                      |
-| Long fingers              | -                      | -                        | -                   | +                      | -                      | +                      |
-| Hallux valgus             | -                      | -                        | -                   | +                      | +                      | -                      |
-| Skin hyperextensibility   | +                      | +                        | +                   | + (moderate)           | + (mild)               | + (mild)               |
-| Thin/soft/doughy skin     | +                      | -	                      | +	                  | -	                     | +                      |	+                      |
-| Atrophic scarring         | +                      | +	                      | -	                  | -	                     | + (mild)               | -                      |
-| Easy bruising             | +                      | +                        | +                   | -                      | -                      | -                      |
-| Inguinal hernia           | + (bilateral)          | -	                      | + (bilateral)       |	+ (bilateral)	         | -                      | -                      |
-| Mitral insufficiency      | + (severe)             | + (severe ?)             | + (significant)     | -                      | + (moderate–severe)    | + (mild)               |
-| Tricuspid insufficiency   | -                      | -                        | -                   | -                      | + (mild)               | + (mild)               |
-| Pulmonary insufficiency   | -                      | -                        | -                   | -                      | + (mild)               | -                      |
-| Aortic insufficiency      | + (moderate)	         | -                        |	+ (severe)          | -                      | -                      | -                      |
+| Feature                   | Patient 1<sup>3</sup>  | Patient 2<sup>2,3</sup>  | Patient 3<sup>3</sup>| Patient 4<sup>4</sup>  | Patient 5<sup>1</sup>  | Patient 6 <sup>1</sup> |
+| -------                   | ---------              | ---------                | ---------            | ---------              | ---------              | ---------              |
+| Origin                    | N/A                    | Japan (?)                |	N/A                  | Portugal               | Italy                  | Italy                  |
+| Sex                       | M                      | M                        | M                    | M                      | F                      | F                      |
+| Age                       | 45                     | 65	                      | 30                   | 6                      | 24                     | 12                     |
+| Variant                   | c.540+5G>A/c.1404+1G>C | c.70+717A>G/c.1404+1G>C  | c.3601G>T/c.3601G>T  | c.292dupC/c.292dupC    | c.3601G>T/c.3601G>T    | c.3601G>T/c.3601G>T    |
+| Joint hypermobility       | + (small joints)       | + (small > large joints) |	+ (generalized)      | + (Beighton score 6/9) | + (Beighton score 6/9) | + (Beighton score 6/8) |
+| Recurrent dislocations    | + (shoulders)          | -                        | -                    | -                      | -                      | -                      |
+| Genua recurvate           | -                      | -                        | +                    | +                      | +                      | +                      |
+| Pectus exacavatum         | +                      | -                        | -                    | -                      | -                      | +                      |
+| Scoliosis                 | -                      | -                        | -                    | -                      | +                      | -                      |
+| Pes planus                | -                      | -                        | +                    | +                      | +                      | +                      |
+| Long fingers              | -                      | -                        | -                    | +                      | -                      | +                      |
+| Hallux valgus             | -                      | -                        | -                    | +                      | +                      | -                      |
+| Skin hyperextensibility   | +                      | +                        | +                    | + (moderate)           | + (mild)               | + (mild)               |
+| Thin/soft/doughy skin     | +                      | -	                      | +	                   | -	                    | +                      | +                      |
+| Atrophic scarring         | +                      | +	                      | -	                   | -	                    | + (mild)               | -                      |
+| Easy bruising             | +                      | +                        | +                    | -                      | -                      | -                      |
+| Inguinal hernia           | + (bilateral)          | -	                      | + (bilateral)        | + (bilateral)	        | -                      | -                      |
+| Mitral insufficiency      | + (severe)             | + (severe ?)             | + (significant)      | -                      | + (moderate–severe)    | + (mild)               |
+| Tricuspid insufficiency   | -                      | -                        | -                    | -                      | + (mild)               | + (mild)               |
+| Pulmonary insufficiency   | -                      | -                        | -                    | -                      | + (mild)               | -                      |
+| Aortic insufficiency      | + (moderate)	         | -                        |	+ (severe)           | -                      | -                      | -                      |
 
 
 ### A Brief Review of <i>COL1A2</i>:
