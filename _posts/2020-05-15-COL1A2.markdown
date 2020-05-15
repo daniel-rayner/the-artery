@@ -21,7 +21,7 @@ author_profile: true
 
 | Feature                   | Patient 1<sup>3</sup>  | Patient 2<sup>2,3</sup>  | Patient 3<sup>3</sup>| Patient 4<sup>4</sup>  | Patient 5<sup>1</sup>  | Patient 6 <sup>1</sup> |
 | -------                   | ---------              | ---------                | ---------            | ---------              | ---------              | ---------              |
-| Origin                    | N/A                    | Japan (?)                |	N/A                  | Portugal               | Italy                  | Italy                  |
+| <b>Origin</b>                    | N/A                    | Japan (?)                |	N/A                  | Portugal               | Italy                  | Italy                  |
 | Sex                       | M                      | M                        | M                    | M                      | F                      | F                      |
 | Age                       | 45                     | 65	                      | 30                   | 6                      | 24                     | 12                     |
 | Variant                   | c.540+5G>A/c.1404+1G>C | c.70+717A>G/c.1404+1G>C  | c.3601G>T/c.3601G>T  | c.292dupC/c.292dupC    | c.3601G>T/c.3601G>T    | c.3601G>T/c.3601G>T    |
