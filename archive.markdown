@@ -5,6 +5,12 @@ permalink: /archive/
 author_profile: true
 author: Daniel R.
 feature_row:
+- image_path: /assets/images/homepage/cvEDS.jpg
+  title: "<i>COL1A2</i> & cvEDS"
+  excerpt: "<b>May 15, 2020</b> – Cardiac valvular Ehlers‐Danlos syndrome (cvEDS) is an ultra-rare EDS subtype caused by particular..."
+  url: "/COL1A2-cardiac-valvular-ehlers-danlos-syndrome/"
+  btn_class: "btn--primary"
+  btn_label: "Read more"
 - image_path: /assets/images/homepage/vEDS.jpg
   title: "<i>COL3A1</i> & vEDS"
   excerpt: "<b>May 8, 2020</b> – Vascular Ehlers-Danlos syndrome (vEDS), also known as Ehlers-Danlos syndrome type IV, is a hereditary..."

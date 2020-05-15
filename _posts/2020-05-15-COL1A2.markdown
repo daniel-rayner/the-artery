@@ -1,0 +1,65 @@
+---
+layout: single
+title: "<i>COL1A2</i>: The rare cause of cardiac valvular Ehlers-Danlos syndrome"
+date: 2020-05-15 12:10:00
+author: Daniel R.
+permalink: "/COL1A2-cardiac-valvular-ehlers-danlos-syndrome/"
+author_profile: true
+---
+### Cardiac Valvular Ehlers‐Danlos Syndrome:
+
+<div style="text-align: justify"><p>Cardiac valvular Ehlers‐Danlos syndrome (cvEDS) is an ultra-rare EDS subtype caused by particular recessive variants in the <i>COL1A2</i> gene, and is characterized by joint hypermobility, and cutaneous involvement, as well as cardiac valvular disease (CVD).<sup>1</sup> As an ultra-rare disorder, its presence in the literature is limited, with only six molecularly confirmed cvEDS patients being published to date.<sup>1-4</sup></p>
+
+<figure>
+  <img src="https://onlinelibrary.wiley.com/cms/asset/efad5144-2248-4e44-b931-acd569d21391/ajmga61100-fig-0001-m.jpg">
+    <figcaption>Some clinical features of two cvEDS patients. Patient 1: Ptosis of the lower eyelids (a), mild atrophic scarring of the knee (b), hypoplasia of the distal interphalangeal creases of hands (c), hypermobility of fingers (d), and genua recurvata (e). Echocardiography showing double jet of mitral regurgitation due to prolapse of A3‐P3 scallops involving the postero‐medial commissure at the modified parasternal short axis (f) and parasternal short axis views (g). Patient 2: Ptosis of the lower eyelid (h), mildly hyperelastic skin (i), hypoplasia of the distal interphalangeal creases of hands (j), finger pads (k), and flatfeet with bilateral pronation of the hindfoot (l). Echocardiography showing mild mitral regurgitation (m).<sup>1</sup></figcaption>
+</figure>
+
+<div style="text-align: justify"><p>The clinical features of cvEDS can be split into major and minor presentations as defined by the 2017 EDS international classifications. The majority of cvEDS patients present with severe progressive cardiac valvular complications (aortic and mitral valve disorders), skin hyperextensibility (accompanied by atrophic scars, thin skin,and easy bruising), and joint hypermobility. However, inguinal hernias, pectus deformities, joint dislocations, as well as foot deformities have been observed in those with cvEDS.<sup>5</sup></p></div>
+
+| Feature | Patient 1 | Patient 2 | Patient 3 | Patient 4 | Patient 5 | Patient 6 |
+| ------- | --------- | --------- | --------- | --------- | --------- | --------- |
+| 'Origin' | NA	| Japan (?) |	NA | Portugal | Italy | Italy |
+| 'Sex' | M | M | M | M | M | F | F |
+| 'Age' | 45 | 65	| 30 | 6 | 24 |	12 |
+| 'Variant' | c.540+5G>A/c.1404+1G>C | c.70+717A>G/c.1404+1G>C | c.3601G>T/c.3601G>T | c.292dupC/c.292dupC | c.3601G>T/c.3601G>T | c.3601G>T/c.3601G>T |
+| 'Joint hypermobility' | + (small joints) | + (small > large joints) |	+ (generalized) |	+ (Beighton score 6/9) | + (Beighton score 6/9)	| + (Beighton score 6/8) |
+| 'Recurrent dislocations' | + (shoulders) | − | − | − | − | − |
+| 'Genua recurvate' | - | - | + | + | + | + |
+| 'Pectus exacavatum' | + | - | - | - | - | + |
+| 'Scoliosis' | - | - | - | - | + | - |
+| 'Pes planus' | - | - | + | + | + | + |
+| 'Long fingers' | - | - | - | + | - | + |
+| 'Hallux valgus' | - | - | - | + | + | - |
+| 'Skin hyperextensibility' | + | + | + | + (moderate) | + (mild) | + (mild) |
+| 'Thin/soft/doughy skin' | + |	−	| +	| −	| + |	+ |
+| 'Atrophic scarring' | + |	+	| −	| −	| + (mild) | − |
+| 'Easy bruising' | + | + | + | - | - | - |
+| 'Inguinal hernia' | + (bilateral) |	−	| + (bilateral) |	+ (bilateral)	| −	| − |
+| 'Mitral insufficiency' | + (severe) |	+ (severe ?) | + (significant) | − | + (moderate–severe) | + (mild) |
+| 'Tricuspid insufficiency' | - | - | - | - | + (mild) | + (mild) |
+| 'Pulmonary insufficiency' | - | - | - | - | + (mild) | - |
+| 'Aortic insufficiency' | + (moderate)	| − |	+ (severe) | − | − | − |
+| 'Other' | Death at 45 years for cardiac disease	| Mitral valve replacement | Mitral and aortic valve replacement; Atrial septal defect ostium secundum	| Mitral valve bulging; pyloric stenosis |	Hypoplastic interphalangeal creases	| Hypoplastic interphalangeal creases; finger pads; short stature; <i>GLUT1</i> variant |
+
+### A Brief Review of <i>COL1A2</i>:
+
+<div style="text-align: justify"><p>Found at chromosome 7q21.3, <i>COL1A2</i> codes for α2 chains of type 1 collagen, which are thought to come together with two α1 chains to form the type 1 pro-collagen triple helix.<sup>1,6</sup> Type 1 collagen is one of the most abundant proteins in the human body, and is an integral structural component in bone, skin, tendons, cornea, blood vessels, and most importantly, heart valves.<sup>6,7</sup></p>
+
+<p>So far, two recurrent nucleotide changes in <i>COL1A2</i> have been observed in individuals with cvEDS: the nonsense variant c.3601G>T, and the splicing variant c.1404+1G>C.1 Interestingly, biallelic pathogenic variants in <i>COL1A2</i> have not been limited to cvEDS. There have been three cases in the literature of progressively deforming osteogenesis imperfecta (OI) and one patient with EDS/OI overlap.<sup>8-12</sup></p>
+
+<p>This evidence suggests that different molecular mechanisms are thought to cause a variety of phenotypes in recessive <i>COL1A2</i> variants. In fact, researchers have noticed that variants which cause nonsense‐mediated mRNA decay are associated with either cvEDS or progressively deforming OI, dominant negative missense variants with progressively deforming OI, and splicing variants with OI/EDS overlap. It is hypothesized that both the proportion of normal α1 homotrimers versus abnormal heterotrimers and their differential distribution among the different tissues are two post‐translational factors influencing the eventual phenotype. Additionally, some clinical variability may be attributed to the intracellular accumulation of pro-α2 chains from nucleotide changes allowing the translation of some mutant proteins, which do trimerize, but accumulate intracellularly.<sup>1</sup> Ultimately, given cvEDS rarity, more cases must be identified and more functional studies must be performed to determine the exact linkage between cvEDS and OI.</p></div>
+
+### References:
+1. Guarnieri V, Morlino S, Di Stolfo G, Mastroianno S, Mazza T, Castori M. Cardiac valvular Ehlers-Danlos syndrome is a well-defined condition due to recessive null variants in COL1A2. _Am J Med Genet A_. 2019 May;179(5):846-51. doi:10.1002/ajmg.a.61100.
+2. Kojima T, Shinkai H, Fujita M, Morita E, Okamoto S. Case report and study of collagen metabolism in Ehlers-Danlos syndrome type II. _J Dermatol_. 1988 Apr;15(2):155-60. doi:10.1111/j.1346-8138.1988.tb03668.x.
+3. Schwarze U, Hata R, McKusick VA, Shinkai H, Hoyme HE, Pyeritz RE, et al. Rare autosomal recessive cardiac valvular form of Ehlers-Danlos syndrome results from mutations in the COL1A2 gene that activate the nonsense-mediated RNA decay pathway. _Am J Hum Genet_. 2004 May;74(5):917-30. doi:10.1086/420794.
+4. Malfait F, Symoens S, Coucke P, Nunes L, De Almeida S, De Paepe A. Total absence of the alpha2(I) chain of collagen type I causes a rare form of Ehlers-Danlos syndrome with hypermobility and propensity to cardiac valvular problems. _J Med Genet_. 2006 Jul;43(7):e36. doi:10.1136/jmg.2005.038224.
+5. Malfait F, Francomano C, Byers P, Belmont J, Berglund B, Black J, et al. The 2017 international classification of the Ehlers-Danlos syndromes. _Am J Med Genet C Semin Med Genet_. 2017 Mar;175(1):8-26. doi:10.1002/ajmg.c.31552.
+6. Ho Duy B, Zhytnik L, Maasalu K, Kändla I, Prans E, Reimann E, et al. Mutation analysis of the COL1A1 and COL1A2 genes in Vietnamese patients with osteogenesis imperfecta. _Hum Genomics_. 2016 Aug 12;10(1):27. doi:10.1186/s40246-016-0083-1.
+7. Cole WG, Chan D, Hickey AJ, Wilcken DE. Collagen composition of normal and myxomatous human mitral heart valves. _Biochem J_. 1984 Apr 15;219(2):451-60. doi:10.1042/bj2190451.
+8. Costantini A, Tournis S, Kämpe A, Ul Ain N, Taylan F, Doulgeraki A, et al. Autosomal recessive osteogenesis imperfecta caused by a novel homozygous COL1A2 mutation. _Calcif Tissue Int_. 2018 Sep;103(3):353-8. doi:10.1007/s00223-018-0414-4.
+9. De Paepe A, Nuytinck L, Raes M, Fryns JP. Homozygosity by descent for a COL1A2 mutation in two sibs with severe osteogenesis imperfecta and mild clinical expression in the heterozygotes. _Hum Genet_. 1997 Apr;99(4):478-83. doi:10.1007/s004390050392.
+10. Nicholls AC, Osse G, Schloon HG, Lenard HG, Deak S, Myers JC, et al. The clinical features of homozygous alpha 2(I) collagen deficient osteogenesis imperfecta. _J Med Genet_. 1984 Aug;21(4):257-62. doi:10.1136/jmg.21.4.257.
+11. Pihlajaniemi T, Dickson LA, Pope FM, Korhonen VR, Nicholls A, Prockop DJ, et al. Osteogenesis imperfecta: cloning of a pro-alpha 2(I) collagen gene with a frameshift mutation. _J Biol Chem_. 1984 Nov 10;259(21):12941-4.
+12. Nicholls AC, Valler D, Wallis S, Pope FM. Homozygosity for a splice site mutation of the COL1A2 gene yields a non-functional pro(alpha)2(I) chain and an EDS/OI clinical phenotype. _J Med Genet_. 2001 Feb;38(2):132-6. doi:10.1136/jmg.38.2.132.

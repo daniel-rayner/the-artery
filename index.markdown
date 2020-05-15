@@ -7,6 +7,12 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/banner-protein.jpg
 feature_row:
+- image_path: /assets/images/homepage/cvEDS.jpg
+  title: "<i>COL1A2</i>: The rare cause of cardiac valvular Ehlers-Danlos syndrome"
+  excerpt: "<b>May 15, 2020</b> – Cardiac valvular Ehlers‐Danlos syndrome (cvEDS) is an ultra-rare EDS subtype caused by particular recessive variants in the <i>COL1A2</i> gene..."
+  url: "/COL1A2-cardiac-valvular-ehlers-danlos-syndrome/"
+  btn_class: "btn--info"
+  btn_label: "Read more"
 - image_path: /assets/images/homepage/vEDS.jpg
   title: "<i>COL3A1</i>: The main gene for vascular Ehlers-Danlos syndrome"
   excerpt: "<b>May 8, 2020</b> – Vascular Ehlers-Danlos syndrome (vEDS), also known as Ehlers-Danlos syndrome type IV, is a hereditary connective tissue disorder caused predominantly..."
@@ -35,12 +41,6 @@ feature_row:
   title: "<i>ENG</i>: A gene for hereditary hemorrhagic telangiectasia"
   excerpt: "<b>April 22, 2020</b> – Hereditary hemorrhagic telangiectasia (HHT), also known as Osler-Weber-Rendu syndrome, is an autosomal dominant vascular malformation disorder..."
   url: "/ENG-hereditary-hemorrhagic-telangiectasia/"
-  btn_class: "btn--info"
-  btn_label: "Read more"
-- image_path: /assets/images/homepage/CADASIL.jpg
-  title: "<i>NOTCH3</i>: The cause of CADASIL, a small-vessel angiopathy"
-  excerpt: "<b>April 20, 2020</b> – Cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy (CADASIL) is a rare hereditary small-vessel angiopathy..."
-  url: "/NOTCH3-cerebral-autosomal-dominant-arteriopathy-with-subcortical-infarcts-and-leukoencephalopathy/"
   btn_class: "btn--info"
   btn_label: "Read more"
 ---
