@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "<i>COL3A1</i>: The main gene for vascular Ehlers-Danlos syndrome"
-date: 2020-05-08 12:10:00
+date: 2021-05-08 12:10:00
 author: Daniel R.
 permalink: "/COL3A1-vascular-ehlers-danlos-syndrome/"
 author_profile: true

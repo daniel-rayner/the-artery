@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "<i>COL1A2</i>: The rare cause of cardiac valvular Ehlers-Danlos syndrome"
-date: 2020-05-15 12:10:00
+date: 2021-07-15 12:10:00
 author: Daniel R.
 permalink: "/COL1A2-cardiac-valvular-ehlers-danlos-syndrome/"
 author_profile: true

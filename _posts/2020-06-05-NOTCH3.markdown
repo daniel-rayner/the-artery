@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "<i>NOTCH3</i>: The cause of CADASIL, a small-vessel angiopathy"
-date: 2020-04-20 22:41:00
+date: 2020-06-05 22:41:00
 author: Daniel R.
 permalink: "/NOTCH3-cerebral-autosomal-dominant-arteriopathy-with-subcortical-infarcts-and-leukoencephalopathy/"
 author_profile: true

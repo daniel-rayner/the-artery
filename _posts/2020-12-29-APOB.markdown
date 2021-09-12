@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "<i>APOB</i>: The genetic cause of familial hypobetalipoproteinemia"
-date: 2020-04-24 01:10:00
+date: 2020-12-29 01:10:00
 author: Daniel R.
 permalink: "/APOB-familial-hypobetalipoproteinemia/"
 author_profile: true

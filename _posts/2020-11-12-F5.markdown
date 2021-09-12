@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "<i>F5</i>: The stem of factor V Leiden thrombophilia"
-date: 2020-04-23 01:10:00
+date: 2020-11-12 01:10:00
 author: Daniel R.
 permalink: "/F5-factor-V-leiden-thrombophilia/"
 author_profile: true
